@@ -4821,6 +4821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-10 22:38:37 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 22:28:27 +0000"
@@ -4833,6 +4839,42 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-12-10 22:38:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-10 22:38:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-10 22:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-10 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2024-12-10 22:38:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2024-12-10 22:38:37 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/gold_nugget": {
     "criteria": {
       "has_gold_nugget": "2024-12-10 22:28:27 +0000"
@@ -4842,6 +4884,12 @@
   "biomancy:recipes/biomancy/decomposing/raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-10 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_bones": {
+    "criteria": {
+      "has_bones": "2024-12-10 22:38:33 +0000"
     },
     "done": true
   },
@@ -4863,15 +4911,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-10 22:38:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-10 22:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-10 22:33:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-10 22:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-10 22:30:23 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-10 22:36:20 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/forge_string": {
     "criteria": {
       "has_string": "2024-12-10 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-10 22:34:04 +0000"
     },
     "done": true
   },
@@ -4884,6 +4968,12 @@
   "biomancy:recipes/biomancy/decomposing/raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-10 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-10 22:33:52 +0000"
     },
     "done": true
   },

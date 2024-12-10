@@ -9680,3 +9680,72 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [10Dec2024 22:30:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [10Dec2024 22:30:56.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 22:30:57.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:32:23.746] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[10Dec2024 22:33:08.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[10Dec2024 22:33:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[10Dec2024 22:34:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[10Dec2024 22:35:07.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[10Dec2024 22:35:56.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 22:35:56.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:36:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Book of Monsters]
+[10Dec2024 22:38:22.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[10Dec2024 22:38:23.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[10Dec2024 22:38:23.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[10Dec2024 22:38:23.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[10Dec2024 22:38:23.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[10Dec2024 22:38:25.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[10Dec2024 22:38:44.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3266ms or 65 ticks behind
+[10Dec2024 22:38:47.894] [Worker-Main-11/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:lookout_tower is being run through DFU (hash 69bd5f46eaa56de8fcad01102a19c9907f355ff2926fe467684f07d855c1da43), this will cause launch time delays
+[10Dec2024 22:39:15.005] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[10Dec2024 22:39:15.023] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:ceryneian_hind/ceryneian_hind_part_1 is being run through DFU (hash 8d1e717f7f690c4ecf038323a31ea2af8a2b26e4aa1514c6368f1507f1d22106), this will cause launch time delays
+[10Dec2024 22:39:15.067] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[10Dec2024 22:39:15.078] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_4_main is being run through DFU (hash cccebbf6685f2053fd7da36eb06e91d689ad94ddf865efdd68b92559b7023182), this will cause launch time delays
+[10Dec2024 22:39:15.110] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_well_0 is being run through DFU (hash f2c98b62ae0d1f718a8b66cadd64325dd33b46ffa2174bc5c0fad867b6e32004), this will cause launch time delays
+[10Dec2024 22:39:15.182] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[10Dec2024 22:39:15.870] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[10Dec2024 22:39:15.926] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[10Dec2024 22:39:15.984] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0 is being run through DFU (hash e2ac74f2492c7f2ca3db9a33497751cab9c13ed04d32afc18dc39b3619361e78), this will cause launch time delays
+[10Dec2024 22:39:16.061] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0 is being run through DFU (hash ca9e0e2b70f65a0980baf59dd19382a9724c1e1907fbe9eb6c9609ec1393c020), this will cause launch time delays
+[10Dec2024 22:39:16.209] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2 is being run through DFU (hash 40b15fe9c80a15adfc4f38946177cfa77d41454b5c5095aa4b33741140c3987c), this will cause launch time delays
+[10Dec2024 22:39:17.052] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1 is being run through DFU (hash b8b12295d93b5da172231e437ecb527d00901657537eae5a5a30d6f971865780), this will cause launch time delays
+[10Dec2024 22:39:17.700] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0 is being run through DFU (hash e4d498c251a42b89b90d4aea20f03b58e9edd152bf50fbd716640369b97d7db1), this will cause launch time delays
+[10Dec2024 22:39:25.782] [Worker-Main-11/DEBUG] [ModernFix/]: Structure supplementaries:way_sign is being run through DFU (hash 62ca40a11e6e653f66e0b6ba060d0cfdee43695b39a5a8cd2c1ec508d0f90fb1), this will cause launch time delays
+[10Dec2024 22:39:44.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[10Dec2024 22:39:44.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[10Dec2024 22:39:44.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[10Dec2024 22:39:44.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[10Dec2024 22:39:44.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[10Dec2024 22:39:44.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[10Dec2024 22:39:44.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[10Dec2024 22:39:44.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[10Dec2024 22:39:44.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[10Dec2024 22:39:44.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[10Dec2024 22:39:44.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[10Dec2024 22:39:44.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[10Dec2024 22:39:44.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[10Dec2024 22:39:44.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[10Dec2024 22:39:44.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[10Dec2024 22:39:44.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[10Dec2024 22:39:44.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[10Dec2024 22:39:44.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[10Dec2024 22:39:44.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[10Dec2024 22:39:44.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_3
+[10Dec2024 22:39:44.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[10Dec2024 22:39:44.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[10Dec2024 22:40:20.934] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[10Dec2024 22:40:20.972] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[10Dec2024 22:40:20.989] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[10Dec2024 22:40:21.026] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[10Dec2024 22:40:21.033] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[10Dec2024 22:40:21.047] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[10Dec2024 22:40:21.050] [Worker-Main-16/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0 is being run through DFU (hash 3713743dd59fdcaa5def3a18f38b05b1b7676b223ad995b9372d55019a1dcb07), this will cause launch time delays
+[10Dec2024 22:40:21.067] [Worker-Main-16/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0 is being run through DFU (hash 9336d663b637d660a35406b57f5adc6e83752fbd4b72862c2498411c40245398), this will cause launch time delays
+[10Dec2024 22:41:01.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 22:41:02.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 22:41:07.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[10Dec2024 22:41:27.510] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Dec2024 22:41:28.100] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[10Dec2024 22:41:33.267] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_1
+[10Dec2024 22:41:52.049] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[10Dec2024 22:41:52.112] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[10Dec2024 22:42:16.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Dragonslayer]
