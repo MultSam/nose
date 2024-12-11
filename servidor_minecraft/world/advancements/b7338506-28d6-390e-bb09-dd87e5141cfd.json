@@ -2635,6 +2635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-11 17:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-11 15:55:29 +0000"
@@ -2734,6 +2740,12 @@
   "ars_nouveau:recipes/misc/ghostweave": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_seeds": {
+    "criteria": {
+      "has_seeds": "2024-12-11 17:08:34 +0000"
     },
     "done": true
   },
@@ -3331,6 +3343,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
+    "criteria": {
+      "has_seeds": "2024-12-11 17:08:34 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_gravity": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -3346,6 +3364,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-11 17:03:13 +0000"
     },
     "done": true
   },
@@ -3604,6 +3628,12 @@
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-11 17:02:00 +0000"
     },
     "done": true
   },
@@ -5704,6 +5734,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-11 17:09:42 +0000",
+      "cookie": "2024-12-11 17:05:30 +0000",
       "bread": "2024-12-11 16:01:12 +0000"
     },
     "done": false
@@ -5915,6 +5947,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-11 15:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-11 17:04:27 +0000"
     },
     "done": true
   },
