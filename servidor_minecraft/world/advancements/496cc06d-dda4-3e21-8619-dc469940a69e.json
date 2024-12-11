@@ -5779,15 +5779,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-11 16:26:39 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-11 16:12:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-11 16:23:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-11 16:26:39 +0000"
     },
     "done": true
   },
@@ -5809,6 +5827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-11 16:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-11 16:12:47 +0000"
@@ -5821,9 +5845,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-11 16:26:39 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/misc/cyan_dye_from_pickerelweed": {
     "criteria": {
       "has_pickerelweed": "2024-12-11 15:56:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:26:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/beef": {
+    "criteria": {
+      "has_beef": "2024-12-11 16:26:22 +0000"
     },
     "done": true
   },
@@ -5835,10 +5877,12 @@
   },
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
+      "has_raw_beef": "2024-12-11 16:26:22 +0000",
       "has_raw_mutton": "2024-12-11 16:04:15 +0000",
-      "has_raw_porkchop": "2024-12-11 16:12:47 +0000"
+      "has_raw_porkchop": "2024-12-11 16:12:47 +0000",
+      "has_raw_chicken": "2024-12-11 16:26:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
@@ -5864,6 +5908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-11 16:26:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_white_wool": "2024-12-11 16:06:10 +0000"
@@ -5876,9 +5926,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-11 16:23:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-11 16:23:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-11 16:26:39 +0000"
     },
     "done": true
   },
@@ -5954,6 +6022,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-11 16:26:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
@@ -5969,6 +6043,12 @@
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-11 16:26:55 +0000"
     },
     "done": true
   },
@@ -6002,6 +6082,24 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-11 16:26:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-11 16:23:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_sinew": {
+    "criteria": {
+      "has_mob_sinew": "2024-12-11 16:24:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
@@ -6011,6 +6109,12 @@
   "biomancy:recipes/biomancy/decomposing/mutton": {
     "criteria": {
       "has_mutton": "2024-12-11 16:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-11 16:26:22 +0000"
     },
     "done": true
   },
