@@ -10308,3 +10308,153 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [11Dec2024 15:48:06.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved wrongly!
 [11Dec2024 15:48:13.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
 [11Dec2024 15:49:25.363] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/4357, l='ServerLevel[world]', x=-758.50, y=60.00, z=20.50]
+[11Dec2024 15:49:43.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[11Dec2024 15:51:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has reached the goal [Flowers of the Savanna]
+[11Dec2024 15:52:08.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:52:08.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:52:44.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Suit Up]
+[11Dec2024 15:52:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Cover Me with Diamonds]
+[11Dec2024 15:54:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Diamonds!]
+[11Dec2024 15:54:12.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Hidden in the Depths]
+[11Dec2024 15:54:20.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Acquire Hardware]
+[11Dec2024 15:54:49.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Into Fire]
+[11Dec2024 15:55:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Hunt and Gather]
+[11Dec2024 15:56:07.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2152, l='ServerLevel[world]', x=-1197.36, y=64.00, z=98.55] died, message: 'Unemployed was slain by Decaying Zombie'
+[11Dec2024 15:57:08.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:57:08.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:57:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Rotten to the Core]
+[11Dec2024 15:58:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Surge Protector]
+[11Dec2024 15:59:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Fighting Nightmares]
+[11Dec2024 16:01:34.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[11Dec2024 16:01:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[11Dec2024 16:01:58.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[11Dec2024 16:01:58.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[11Dec2024 16:01:58.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[11Dec2024 16:01:58.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[11Dec2024 16:01:58.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[11Dec2024 16:01:58.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[11Dec2024 16:01:58.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[11Dec2024 16:01:58.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[11Dec2024 16:01:58.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[11Dec2024 16:01:58.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[11Dec2024 16:01:58.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[11Dec2024 16:01:58.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[11Dec2024 16:01:58.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[11Dec2024 16:01:58.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[11Dec2024 16:01:58.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[11Dec2024 16:01:58.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[11Dec2024 16:01:58.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[11Dec2024 16:01:58.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[11Dec2024 16:01:58.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[11Dec2024 16:01:58.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[11Dec2024 16:01:58.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_3
+[11Dec2024 16:01:58.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[11Dec2024 16:01:58.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[11Dec2024 16:02:09.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 16:02:09.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 16:02:10.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[11Dec2024 16:02:24.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[11Dec2024 16:02:27.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[11Dec2024 16:02:35.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10823ms or 216 ticks behind
+[11Dec2024 16:02:39.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[11Dec2024 16:02:39.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[11Dec2024 16:03:05.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[11Dec2024 16:03:05.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[11Dec2024 16:03:05.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[11Dec2024 16:03:05.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[11Dec2024 16:03:05.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[11Dec2024 16:03:05.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[11Dec2024 16:03:09.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 10.128845056996624,1.1677966466332492,-1.679724588089897
+[11Dec2024 16:03:22.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[11Dec2024 16:03:31.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[11Dec2024 16:03:31.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[11Dec2024 16:03:31.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[11Dec2024 16:03:31.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[11Dec2024 16:03:31.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[11Dec2024 16:03:31.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[11Dec2024 16:03:31.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[11Dec2024 16:03:31.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[11Dec2024 16:03:31.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[11Dec2024 16:03:32.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[11Dec2024 16:03:32.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[11Dec2024 16:03:32.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[11Dec2024 16:03:38.066] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[11Dec2024 16:03:46.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8752ms or 175 ticks behind
+[11Dec2024 16:04:05.132] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[11Dec2024 16:04:06.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[11Dec2024 16:04:10.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[11Dec2024 16:04:10.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[11Dec2024 16:04:10.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[11Dec2024 16:04:10.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[11Dec2024 16:04:13.114] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[11Dec2024 16:04:14.318] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[11Dec2024 16:04:20.036] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[11Dec2024 16:04:24.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2859ms or 57 ticks behind
+[11Dec2024 16:04:27.364] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[11Dec2024 16:04:27.930] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[11Dec2024 16:04:27.985] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[11Dec2024 16:04:28.204] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[11Dec2024 16:04:31.444] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[11Dec2024 16:04:31.472] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[11Dec2024 16:04:31.477] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[11Dec2024 16:04:31.477] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[11Dec2024 16:04:31.479] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[11Dec2024 16:04:31.484] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[11Dec2024 16:04:31.486] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[11Dec2024 16:04:31.487] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[11Dec2024 16:04:31.489] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[11Dec2024 16:04:31.493] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[11Dec2024 16:04:31.499] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
+[11Dec2024 16:04:31.502] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[11Dec2024 16:04:31.505] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[11Dec2024 16:04:31.520] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[11Dec2024 16:04:31.524] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[11Dec2024 16:04:31.525] [Worker-Main-7/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/alchemist is being run through DFU (hash eef2002f3d00ad19e61a8526376e4db7c77a4f4b3cca0ba9e566fbbaed50371b), this will cause launch time delays
+[11Dec2024 16:04:31.534] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_1
+[11Dec2024 16:04:31.539] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_0
+[11Dec2024 16:04:31.553] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[11Dec2024 16:04:31.564] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[11Dec2024 16:04:31.575] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[11Dec2024 16:04:31.581] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[11Dec2024 16:04:31.591] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[11Dec2024 16:04:31.600] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[11Dec2024 16:04:31.603] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_2
+[11Dec2024 16:04:31.603] [Worker-Main-7/DEBUG] [ModernFix/]: Structure illagerinvasion:mobs/necromancer is being run through DFU (hash 27e13f6b80b3f1995b85fb15e6cf9ec3b7b35375080e8552f2f9dae47812999e), this will cause launch time delays
+[11Dec2024 16:04:31.608] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[11Dec2024 16:04:31.622] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[11Dec2024 16:04:32.986] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[11Dec2024 16:04:34.896] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[11Dec2024 16:04:45.759] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[11Dec2024 16:04:45.782] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-1797, y=73, z=405}
+[11Dec2024 16:04:47.911] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[11Dec2024 16:04:48.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9802ms or 196 ticks behind
+[11Dec2024 16:04:49.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -7.242278117885235,0.9986640208878583,-7.188090115674804
+[11Dec2024 16:04:50.565] [Worker-Main-14/DEBUG] [ModernFix/]: Structure domesticationinnovation:plains_petshop is being run through DFU (hash 44e7596e71b0853aa88f21c540c94e7504d2aa31312365d63b4963924ae03328), this will cause launch time delays
+[11Dec2024 16:04:52.024] [Worker-Main-14/DEBUG] [ModernFix/]: Structure iceandfire:village/plains_scriber_1 is being run through DFU (hash 76a607dd4093491f52ecde52887eafe16741dcdeacbe41d03515821e3ebfb9df), this will cause launch time delays
+[11Dec2024 16:04:57.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 0.6717586620654856,0.0,-10.346981699953005
+[11Dec2024 16:05:18.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14240ms or 284 ticks behind
+[11Dec2024 16:05:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[11Dec2024 16:05:24.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[11Dec2024 16:05:24.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[11Dec2024 16:05:38.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5268ms or 105 ticks behind
+[11Dec2024 16:05:42.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[11Dec2024 16:05:58.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[11Dec2024 16:06:04.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[11Dec2024 16:06:04.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[11Dec2024 16:06:04.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[11Dec2024 16:06:16.011] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[11Dec2024 16:06:17.490] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
+[11Dec2024 16:06:17.638] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_0
+[11Dec2024 16:06:17.643] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[11Dec2024 16:06:17.654] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[11Dec2024 16:06:17.659] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[11Dec2024 16:06:17.665] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[11Dec2024 16:06:17.695] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[11Dec2024 16:06:17.702] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[11Dec2024 16:06:21.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8151ms or 163 ticks behind
+[11Dec2024 16:06:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[11Dec2024 16:08:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Monster Hunter]
+[11Dec2024 16:08:24.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 16:08:24.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 16:09:30.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[11Dec2024 16:09:30.520] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil

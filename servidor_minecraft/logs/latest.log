@@ -581,3 +581,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [11Dec2024 15:48:06.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved wrongly!
 [11Dec2024 15:48:13.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
 [11Dec2024 15:49:25.363] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/4357, l='ServerLevel[world]', x=-758.50, y=60.00, z=20.50]
+[11Dec2024 15:49:43.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[11Dec2024 15:51:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has reached the goal [Flowers of the Savanna]
+[11Dec2024 15:52:44.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Suit Up]
+[11Dec2024 15:52:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Cover Me with Diamonds]
+[11Dec2024 15:54:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Diamonds!]
+[11Dec2024 15:54:12.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Hidden in the Depths]
+[11Dec2024 15:54:20.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Acquire Hardware]
+[11Dec2024 15:54:49.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Into Fire]
+[11Dec2024 15:55:28.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Hunt and Gather]
+[11Dec2024 15:56:07.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2152, l='ServerLevel[world]', x=-1197.36, y=64.00, z=98.55] died, message: 'Unemployed was slain by Decaying Zombie'
+[11Dec2024 15:57:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Rotten to the Core]
+[11Dec2024 15:58:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Surge Protector]
+[11Dec2024 15:59:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Fighting Nightmares]
+[11Dec2024 16:01:34.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[11Dec2024 16:01:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[11Dec2024 16:02:10.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[11Dec2024 16:02:35.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10823ms or 216 ticks behind
+[11Dec2024 16:03:05.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[11Dec2024 16:03:09.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 10.128845056996624,1.1677966466332492,-1.679724588089897
+[11Dec2024 16:03:22.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[11Dec2024 16:03:46.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8752ms or 175 ticks behind
+[11Dec2024 16:04:06.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[11Dec2024 16:04:24.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2859ms or 57 ticks behind
+[11Dec2024 16:04:45.782] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-1797, y=73, z=405}
+[11Dec2024 16:04:48.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9802ms or 196 ticks behind
+[11Dec2024 16:04:49.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -7.242278117885235,0.9986640208878583,-7.188090115674804
+[11Dec2024 16:04:57.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 0.6717586620654856,0.0,-10.346981699953005
+[11Dec2024 16:05:18.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14240ms or 284 ticks behind
+[11Dec2024 16:05:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[11Dec2024 16:05:38.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5268ms or 105 ticks behind
+[11Dec2024 16:05:42.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[11Dec2024 16:05:58.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[11Dec2024 16:06:21.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8151ms or 163 ticks behind
+[11Dec2024 16:06:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[11Dec2024 16:08:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Monster Hunter]
