@@ -5779,6 +5779,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-11 16:12:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
@@ -5803,6 +5809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-11 16:12:47 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2024-12-11 15:33:50 +0000"
@@ -5823,9 +5835,16 @@
   },
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
-      "has_raw_mutton": "2024-12-11 16:04:15 +0000"
+      "has_raw_mutton": "2024-12-11 16:04:15 +0000",
+      "has_raw_porkchop": "2024-12-11 16:12:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-11 16:12:47 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
@@ -5869,6 +5888,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:12:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
@@ -5890,6 +5915,18 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-11 16:12:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:12:47 +0000"
     },
     "done": true
   },
