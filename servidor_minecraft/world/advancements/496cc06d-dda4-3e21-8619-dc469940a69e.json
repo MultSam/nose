@@ -6119,6 +6119,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/sand": {
+    "criteria": {
+      "has_sand": "2024-12-11 16:51:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2024-12-11 15:39:32 +0000"
