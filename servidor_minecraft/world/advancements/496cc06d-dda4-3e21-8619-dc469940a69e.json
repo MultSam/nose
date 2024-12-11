@@ -4026,6 +4026,7 @@
       "minecraft:hoglin": "2024-12-10 01:52:23 +0000",
       "minecraft:magma_cube": "2024-12-10 01:43:52 +0000",
       "minecraft:creeper": "2024-12-11 15:33:44 +0000",
+      "minecraft:zombified_piglin": "2024-12-11 16:32:11 +0000",
       "minecraft:wither_skeleton": "2024-12-10 01:52:09 +0000",
       "minecraft:enderman": "2024-12-10 23:09:20 +0000",
       "minecraft:zombie": "2024-12-10 01:36:16 +0000"
@@ -5827,6 +5828,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-11 16:44:58 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-11 16:33:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2024-12-11 16:46:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-11 16:26:22 +0000"
@@ -5836,6 +5855,18 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-11 16:12:47 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-11 16:33:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/primal_vision": {
+    "criteria": {
+      "has_primordial_core": "2024-12-11 16:36:49 +0000"
     },
     "done": true
   },
@@ -5857,15 +5888,39 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2024-12-11 16:44:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 16:26:22 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/misc/crafting/primordial_core": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 16:36:49 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/beef": {
     "criteria": {
       "has_beef": "2024-12-11 16:26:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-11 16:32:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2024-12-11 16:44:55 +0000"
     },
     "done": true
   },
@@ -5881,6 +5936,12 @@
       "has_raw_mutton": "2024-12-11 16:04:15 +0000",
       "has_raw_porkchop": "2024-12-11 16:12:47 +0000",
       "has_raw_chicken": "2024-12-11 16:26:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-11 16:31:09 +0000"
     },
     "done": true
   },
@@ -5923,6 +5984,12 @@
   "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
     "criteria": {
       "has_pickerelweed": "2024-12-11 15:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-11 16:44:58 +0000"
     },
     "done": true
   },
@@ -5980,9 +6047,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-11 16:31:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-11 16:44:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-11 16:31:09 +0000"
     },
     "done": true
   },
@@ -5992,15 +6077,33 @@
     },
     "done": true
   },
+  "biomancy:recipes/combat/crafting/despoil_sickle": {
+    "criteria": {
+      "has_primordial_core": "2024-12-11 16:36:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 16:12:47 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-11 16:31:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-11 16:44:55 +0000"
     },
     "done": true
   },
@@ -6040,9 +6143,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-11 16:30:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-11 16:33:41 +0000"
     },
     "done": true
   },
@@ -6064,6 +6179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-11 16:44:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-11 16:06:10 +0000"
@@ -6073,6 +6194,18 @@
   "biomancy:biomancy/root": {
     "criteria": {
       "has_raw_meats": "2024-12-11 16:04:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-11 16:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-12-11 16:46:49 +0000"
     },
     "done": true
   },
@@ -6097,6 +6230,18 @@
   "biomancy:recipes/biomancy/decomposing/mob_sinew": {
     "criteria": {
       "has_mob_sinew": "2024-12-11 16:24:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/greedy_butcher": {
+    "criteria": {
+      "has_despoil_sickle": "2024-12-11 16:37:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/primordial_cradle": {
+    "criteria": {
+      "has_primordial_core": "2024-12-11 16:36:49 +0000"
     },
     "done": true
   },

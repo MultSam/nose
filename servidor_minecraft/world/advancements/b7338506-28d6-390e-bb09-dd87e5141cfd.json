@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-11 16:47:29 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -140,6 +146,12 @@
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:29:48 +0000"
     },
     "done": true
   },
@@ -212,6 +224,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-11 16:29:48 +0000"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-11 16:29:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 15:54:20 +0000"
@@ -314,6 +338,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-11 15:56:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/iron_nugget": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-11 16:39:14 +0000"
     },
     "done": true
   },
@@ -440,6 +470,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2024-12-11 16:42:26 +0000"
     },
     "done": true
   },
@@ -659,6 +695,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:43:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-12-11 15:56:39 +0000"
@@ -848,6 +890,12 @@
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 16:39:16 +0000"
     },
     "done": true
   },
@@ -1421,6 +1469,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-11 16:47:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-11 15:55:29 +0000"
@@ -1475,6 +1529,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-11 16:36:51 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/polished_source_sconce": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -1511,6 +1571,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/forge_feathers": {
+    "criteria": {
+      "has_feathers": "2024-12-11 16:42:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_sunrise": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -1520,6 +1586,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 15:54:23 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2024-12-11 16:39:16 +0000"
     },
     "done": true
   },
@@ -1649,6 +1721,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-11 16:42:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 15:54:20 +0000"
@@ -1682,6 +1760,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-11 16:42:26 +0000"
     },
     "done": true
   },
@@ -1859,6 +1943,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-11 16:47:22 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_deepslate": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -1955,6 +2045,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-11 16:39:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -2018,6 +2114,12 @@
   "ars_nouveau:recipes/misc/magebloom_block": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-11 16:47:30 +0000"
     },
     "done": true
   },
@@ -2237,6 +2339,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-11 16:39:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2024-12-11 15:59:25 +0000"
@@ -2252,6 +2360,12 @@
   "ars_nouveau:recipes/misc/source_jar": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/gold_nugget": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 16:39:16 +0000"
     },
     "done": true
   },
@@ -2437,6 +2551,7 @@
   },
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
+      "has_raw_mutton": "2024-12-11 16:47:29 +0000",
       "has_raw_porkchop": "2024-12-11 16:04:06 +0000"
     },
     "done": false
@@ -2450,6 +2565,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2024-12-11 15:55:29 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/fisherman_necklace": {
+    "criteria": {
+      "has_tropical_fish": "2024-12-11 16:43:35 +0000"
     },
     "done": true
   },
@@ -2753,6 +2874,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-11 16:43:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 15:54:20 +0000"
@@ -2903,6 +3030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-11 16:39:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-11 15:55:29 +0000"
@@ -3047,6 +3180,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2024-12-11 16:39:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-11 15:55:29 +0000"
@@ -3074,6 +3213,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-11 15:54:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:43:35 +0000"
     },
     "done": true
   },
@@ -3245,6 +3390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-11 16:46:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2024-12-11 16:17:34 +0000"
@@ -3341,6 +3492,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/cookie": {
+    "criteria": {
+      "has_cookie": "2024-12-11 16:43:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-12-11 16:06:09 +0000"
@@ -3404,6 +3561,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-11 16:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 16:39:16 +0000"
     },
     "done": true
   },
@@ -3491,6 +3654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-11 16:42:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/scribes_table": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -3557,6 +3726,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/ender_pearl": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-11 16:47:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -3596,6 +3771,12 @@
   "toolleveling:recipes/tool_leveling_table": {
     "criteria": {
       "has_enchanting_table": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:43:45 +0000"
     },
     "done": true
   },
@@ -3903,6 +4084,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-11 16:39:14 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2024-12-11 15:41:19 +0000"
@@ -3954,6 +4141,12 @@
   "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-11 16:42:23 +0000"
     },
     "done": true
   },
@@ -4236,6 +4429,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:43:45 +0000"
     },
     "done": true
   },
@@ -4611,6 +4810,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/tropical_fish": {
+    "criteria": {
+      "has_tropical_fish": "2024-12-11 16:43:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-11 15:56:39 +0000"
@@ -4626,6 +4831,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-11 16:47:22 +0000"
     },
     "done": true
   },
@@ -4698,6 +4909,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-11 16:47:29 +0000"
     },
     "done": true
   },
@@ -5007,6 +5224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-11 16:43:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-11 15:56:39 +0000"
@@ -5037,6 +5260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-11 16:47:29 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/river_planks": {
     "criteria": {
       "has_logs": "2024-12-11 15:55:15 +0000"
@@ -5046,6 +5275,12 @@
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2024-12-11 15:54:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:47:29 +0000"
     },
     "done": true
   },
@@ -5070,6 +5305,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-11 16:17:34 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2024-12-11 16:42:26 +0000"
     },
     "done": true
   },
@@ -5148,6 +5389,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-11 15:54:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-11 16:29:48 +0000"
     },
     "done": true
   },
@@ -5247,6 +5494,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-11 16:30:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
@@ -5331,6 +5584,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2024-12-11 15:59:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-11 16:39:14 +0000"
     },
     "done": true
   },
@@ -5514,6 +5773,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 16:43:45 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_sinew": {
     "criteria": {
       "has_mob_sinew": "2024-12-11 16:04:06 +0000"
@@ -5628,6 +5893,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-11 16:47:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-11 15:49:42 +0000"
@@ -5643,6 +5914,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-11 15:41:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2024-12-11 16:39:14 +0000"
     },
     "done": true
   },
