@@ -4032,7 +4032,8 @@
       "minecraft:wither_skeleton": "2024-12-10 01:52:09 +0000",
       "minecraft:husk": "2024-12-12 03:11:35 +0000",
       "minecraft:enderman": "2024-12-10 23:09:20 +0000",
-      "minecraft:zombie": "2024-12-10 01:36:16 +0000"
+      "minecraft:zombie": "2024-12-10 01:36:16 +0000",
+      "minecraft:drowned": "2024-12-12 22:25:53 +0000"
     },
     "done": false
   },
@@ -7756,6 +7757,42 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-12-12 16:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-12 22:19:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-12 22:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-12 22:25:46 +0000"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/tomato_sauce_bucket_from_bowls": {
+    "criteria": {
+      "has_bucket": "2024-12-12 22:24:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-12 22:22:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-12 22:19:23 +0000"
     },
     "done": true
   },
