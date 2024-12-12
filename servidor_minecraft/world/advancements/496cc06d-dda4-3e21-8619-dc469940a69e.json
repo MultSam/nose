@@ -7704,6 +7704,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-12 16:38:19 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
     "criteria": {
       "hoglin_loin": "2024-12-12 16:30:06 +0000"
