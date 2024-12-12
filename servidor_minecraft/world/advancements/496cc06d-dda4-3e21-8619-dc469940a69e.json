@@ -6271,6 +6271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/copper_ingot": {
     "criteria": {
       "has_nuggets_copper": "2024-12-12 01:26:57 +0000"
@@ -6301,6 +6307,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
@@ -6316,6 +6328,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
     },
     "done": true
   },
@@ -6355,6 +6373,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/decorations/bedroll": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
@@ -6382,6 +6406,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-12 01:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
     },
     "done": true
   },
@@ -6415,6 +6445,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/leather": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/acolyte_armor_leggings": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
@@ -6430,6 +6466,12 @@
   "biomancy:recipes/biomancy/bio_forging/biometric_membrane": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
     },
     "done": true
   },
@@ -6450,6 +6492,12 @@
       "minecraft:sheep": "2024-12-12 01:50:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
@@ -6529,6 +6577,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_gland": {
+    "criteria": {
+      "has_mob_gland": "2024-12-12 02:22:16 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/chrysalis": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
@@ -6544,6 +6604,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
     },
     "done": true
   },
@@ -6595,9 +6661,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/bio_forge": {
+    "criteria": {
+      "has_bio_forge": "2024-12-12 02:20:39 +0000"
     },
     "done": true
   },
@@ -6733,6 +6811,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/misc/crafting/bio_forge": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
@@ -6760,6 +6844,12 @@
   "biomancy:recipes/biomancy/bio_forging/acolyte_armor_boots": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_leather": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:19:33 +0000"
     },
     "done": true
   },
