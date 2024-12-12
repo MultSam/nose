@@ -6337,6 +6337,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/kangaroo_hide": {
+    "criteria": {
+      "has_kangaroo_hide": "2024-12-12 03:01:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
@@ -6784,6 +6790,12 @@
   "biomancy:recipes/biomancy/bio_forging/flesh_ladder": {
     "criteria": {
       "has_bone_fragments": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-12 03:01:38 +0000"
     },
     "done": true
   },

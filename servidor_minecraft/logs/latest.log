@@ -638,3 +638,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [12Dec2024 02:57:23.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [12Dec2024 02:57:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has reached the goal [Fighting Nightmares]
 [12Dec2024 02:57:50.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Dark Metallurgy]
+[12Dec2024 03:01:38.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [We do a little trolling...]
+[12Dec2024 03:04:38.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[12Dec2024 03:04:38.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Dec2024 03:04:51.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.139.152.144:56435] logged in with entity id 23096 at (-1188.7327402047347, 63.0, 43.36402585936917)
+[12Dec2024 03:04:52.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Dec2024 03:04:52.158] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[12Dec2024 03:04:52.159] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[12Dec2024 03:04:52.160] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Dec2024 03:05:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Dec2024 03:05:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Dec2024 03:06:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> [name:"Torra", x:-1663, y:67, z:94, dim:minecraft:overworld]
+[12Dec2024 03:07:11.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[12Dec2024 03:07:11.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 0.9252825808835041,0.35749998688697815,-10.056816598743827
+[12Dec2024 03:07:32.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6610ms or 132 ticks behind

@@ -6611,6 +6611,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-12 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-12 02:57:50 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_gland": {
     "criteria": {
       "has_mob_gland": "2024-12-12 02:53:51 +0000"
