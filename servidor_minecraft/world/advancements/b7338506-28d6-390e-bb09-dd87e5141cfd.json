@@ -2105,6 +2105,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-12-11 15:50:17 +0000",
+      "shrubland": "2024-12-12 03:20:00 +0000",
       "scrubland": "2024-12-11 15:51:10 +0000",
       "mediterranean_forest": "2024-12-11 16:01:59 +0000",
       "lush_desert": "2024-12-11 15:50:08 +0000",
@@ -4938,6 +4939,7 @@
       "cooked_porkchop": "2024-12-11 17:09:42 +0000",
       "baked_potato": "2024-12-12 03:05:15 +0000",
       "cookie": "2024-12-11 17:05:30 +0000",
+      "pumpkin_pie": "2024-12-12 03:20:59 +0000",
       "bread": "2024-12-11 16:01:12 +0000"
     },
     "done": false
@@ -5176,6 +5178,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-12 03:08:59 +0000",
       "minecraft:spider": "2024-12-11 16:08:06 +0000",
+      "minecraft:phantom": "2024-12-12 03:26:01 +0000",
+      "minecraft:wither_skeleton": "2024-12-12 03:25:44 +0000",
       "minecraft:husk": "2024-12-12 03:12:19 +0000"
     },
     "done": false
@@ -6665,6 +6669,42 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2024-12-12 03:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-12 03:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-12 03:23:23 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-12 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-12-12 03:20:02 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/phantom_membrane": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-12 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-12 03:26:27 +0000"
     },
     "done": true
   },
