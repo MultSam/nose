@@ -4936,6 +4936,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-11 17:09:42 +0000",
+      "baked_potato": "2024-12-12 03:05:15 +0000",
       "cookie": "2024-12-11 17:05:30 +0000",
       "bread": "2024-12-11 16:01:12 +0000"
     },
@@ -5173,7 +5174,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2024-12-11 16:08:06 +0000"
+      "minecraft:skeleton": "2024-12-12 03:08:59 +0000",
+      "minecraft:spider": "2024-12-11 16:08:06 +0000",
+      "minecraft:husk": "2024-12-12 03:12:19 +0000"
     },
     "done": false
   },
@@ -6611,6 +6614,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/mob_gland": {
+    "criteria": {
+      "has_mob_gland": "2024-12-12 02:53:51 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2024-12-12 02:57:50 +0000"
@@ -6623,9 +6632,39 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/mob_gland": {
+  "biomancy:recipes/biomancy/decomposing/mob_marrow": {
     "criteria": {
-      "has_mob_gland": "2024-12-12 02:53:51 +0000"
+      "has_mob_marrow": "2024-12-12 03:09:00 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cake": {
+    "criteria": {
+      "has_cake": "2024-12-12 03:11:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_cake": {
+    "criteria": {
+      "has_cake": "2024-12-12 03:11:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glistering_melon_slice": {
+    "criteria": {
+      "has_glistering_melon_slice": "2024-12-12 03:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-12 03:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-12 03:11:15 +0000"
     },
     "done": true
   },

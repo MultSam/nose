@@ -4028,6 +4028,7 @@
       "minecraft:creeper": "2024-12-11 15:33:44 +0000",
       "minecraft:zombified_piglin": "2024-12-11 16:32:11 +0000",
       "minecraft:wither_skeleton": "2024-12-10 01:52:09 +0000",
+      "minecraft:husk": "2024-12-12 03:11:35 +0000",
       "minecraft:enderman": "2024-12-10 23:09:20 +0000",
       "minecraft:zombie": "2024-12-10 01:36:16 +0000"
     },
@@ -6817,6 +6818,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/mob_marrow": {
+    "criteria": {
+      "has_mob_marrow": "2024-12-12 03:09:23 +0000"
+    },
+    "done": true
+  },
   "biomancy:biomancy/digester": {
     "criteria": {
       "has_digester": "2024-12-12 02:31:26 +0000"
@@ -7126,6 +7133,12 @@
   "biomancy:recipes/biomancy/decomposing/biomesoplenty_flesh": {
     "criteria": {
       "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-12 03:07:55 +0000"
     },
     "done": true
   },
