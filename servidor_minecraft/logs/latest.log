@@ -601,3 +601,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [12Dec2024 16:36:51.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [12Dec2024 16:40:52.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
 [12Dec2024 16:40:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[12Dec2024 16:52:07.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.3.249.52:57239] logged in with entity id 1308 at (-1749.7184957953475, 63.0, 168.5563790176815)
+[12Dec2024 16:52:07.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Dec2024 16:52:07.541] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[12Dec2024 16:52:07.541] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[12Dec2024 16:52:07.542] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Dec2024 16:54:23.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
