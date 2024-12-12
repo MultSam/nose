@@ -596,3 +596,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [12Dec2024 16:21:34.341] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'MazeHero547'
 [12Dec2024 16:21:34.343] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
 [12Dec2024 16:21:47.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
+[12Dec2024 16:32:25.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Dec2024 16:34:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
