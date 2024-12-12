@@ -6270,9 +6270,27 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_nuggets_copper": "2024-12-12 01:26:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/raw_meat_sacrifice": {
+    "criteria": {
+      "has_sacrificed_raw_meat": "2024-12-12 01:30:01 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2024-12-12 01:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 01:29:39 +0000"
     },
     "done": true
   },
@@ -6282,9 +6300,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/cradle": {
+    "criteria": {
+      "has_placed_cradle": "2024-12-12 01:29:38 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_fang": {
     "criteria": {
       "has_mob_fang": "2024-12-12 01:12:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-12 01:26:57 +0000"
     },
     "done": true
   },
@@ -6300,9 +6336,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2024-12-12 01:26:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-12 01:26:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/tropical_fish": {
+    "criteria": {
+      "has_tropical_fish": "2024-12-12 01:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 01:29:39 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_claw": {
     "criteria": {
       "has_mob_claw": "2024-12-12 01:12:23 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_ring": {
+    "criteria": {
+      "has_nuggets_copper": "2024-12-12 01:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-12 01:29:39 +0000"
     },
     "done": true
   },
