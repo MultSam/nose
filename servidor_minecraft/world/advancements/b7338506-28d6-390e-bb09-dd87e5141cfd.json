@@ -6672,9 +6672,9 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
-      "deflected_projectile": "2024-12-12 03:24:26 +0000"
+      "location0": "2024-12-12 03:20:02 +0000"
     },
     "done": true
   },
@@ -6684,15 +6684,15 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_phantom_membrane": "2024-12-12 03:26:27 +0000"
+      "deflected_projectile": "2024-12-12 03:24:26 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_conqueror": {
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane": {
     "criteria": {
-      "location0": "2024-12-12 03:20:02 +0000"
+      "has_phantom_membrane": "2024-12-12 03:26:27 +0000"
     },
     "done": true
   },

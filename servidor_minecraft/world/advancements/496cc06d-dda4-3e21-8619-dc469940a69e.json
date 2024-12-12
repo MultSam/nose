@@ -6376,6 +6376,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-12 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-12 03:28:31 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/tendon_chain": {
     "criteria": {
       "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
@@ -6502,6 +6514,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-12 03:28:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2024-12-12 03:22:38 +0000"
@@ -6625,6 +6643,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-12 03:28:31 +0000"
     },
     "done": true
   },
@@ -7150,6 +7174,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-12 03:28:31 +0000",
+      "has_the_recipe": "2024-12-12 03:28:31 +0000"
+    },
+    "done": true
+  },
   "biomancy:biomancy/bio_forge": {
     "criteria": {
       "has_bio_forge": "2024-12-12 02:20:39 +0000"
@@ -7306,6 +7337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-12 03:28:31 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/biomesoplenty_porous_flesh": {
     "criteria": {
       "has_flesh_bits": "2024-12-12 02:30:04 +0000"
@@ -7444,6 +7481,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-12 03:28:31 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-12 02:40:00 +0000"
@@ -7483,6 +7526,12 @@
   "skilltree:recipes/misc/copper_ring": {
     "criteria": {
       "has_nuggets_copper": "2024-12-12 01:26:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2024-12-12 03:28:23 +0000"
     },
     "done": true
   },
