@@ -6277,9 +6277,45 @@
     },
     "done": true
   },
+  "biomancy:biomancy/decomposer": {
+    "criteria": {
+      "has_decomposer": "2024-12-12 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bone": {
+    "criteria": {
+      "has_bone_fragments": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/copper_ingot": {
     "criteria": {
       "has_nuggets_copper": "2024-12-12 01:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-12 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_slab": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/injector": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_brewing/organic_compound": {
+    "criteria": {
+      "has_bile": "2024-12-12 02:31:12 +0000"
     },
     "done": true
   },
@@ -6289,9 +6325,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-12 02:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/tendon_chain": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
     },
     "done": true
   },
@@ -6304,6 +6352,12 @@
   "biomancy:recipes/biomancy/bio_forging/tongue": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
@@ -6328,6 +6382,18 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/vial": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/vial_holder": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
     },
     "done": true
   },
@@ -6421,6 +6487,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_eyebulb": {
+    "criteria": {
+      "has_bile": "2024-12-12 02:31:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 01:29:39 +0000"
@@ -6430,6 +6508,12 @@
   "biomancy:recipes/biomancy/bio_forging/fleshkin_pressure_plate": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/adult_permeable_membrane": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
     },
     "done": true
   },
@@ -6445,6 +6529,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_stairs": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/leather": {
     "criteria": {
       "has_leather": "2024-12-12 02:19:33 +0000"
@@ -6457,9 +6547,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/flesh_door": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/ornate_flesh": {
+    "criteria": {
+      "has_bone_fragments": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_pus_bubble": {
+    "criteria": {
+      "has_bile": "2024-12-12 02:31:12 +0000"
     },
     "done": true
   },
@@ -6475,6 +6583,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
@@ -6484,6 +6598,18 @@
   "biomancy:recipes/biomancy/bio_forging/mob_claw": {
     "criteria": {
       "has_mob_claw": "2024-12-12 01:12:23 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_pillar": {
+    "criteria": {
+      "has_bone_fragments": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/baby_permeable_membrane": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
     },
     "done": true
   },
@@ -6541,9 +6667,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_flesh_tendons": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_slab": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/maw_hopper": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_wall": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
@@ -6583,9 +6727,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/ornate_flesh_slab": {
+    "criteria": {
+      "has_bone_fragments": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_gland": {
     "criteria": {
       "has_mob_gland": "2024-12-12 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/impermeable_membrane": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_ladder": {
+    "criteria": {
+      "has_bone_fragments": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
@@ -6595,9 +6757,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/impermeable_membrane_pane": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2024-12-12 01:37:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/digester": {
+    "criteria": {
+      "has_digester": "2024-12-12 02:31:26 +0000"
     },
     "done": true
   },
@@ -6643,15 +6817,33 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/tubular_flesh": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-12 02:30:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-12 01:37:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-12 02:30:20 +0000"
     },
     "done": true
   },
@@ -6664,6 +6856,18 @@
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/storage_sac": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_flesh_tendons_strand": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
     },
     "done": true
   },
@@ -6703,6 +6907,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/adult_permeable_membrane_pane": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/modular_larynx": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
@@ -6712,6 +6922,12 @@
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2024-12-12 01:37:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_fence": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
@@ -6763,6 +6979,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_porous_flesh": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2024-12-12 01:26:57 +0000"
@@ -6775,9 +6997,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/baby_permeable_membrane_pane": {
+    "criteria": {
+      "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_stairs": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
@@ -6793,9 +7027,27 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/chiseled_flesh": {
+    "criteria": {
+      "has_bone_fragments": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_wall": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_flesh": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
@@ -6814,6 +7066,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-12 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_slab": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
@@ -6847,6 +7105,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/flesh_iris_door": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/full_flesh_door": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/forge_leather": {
     "criteria": {
       "has_leather": "2024-12-12 02:19:33 +0000"
@@ -6877,6 +7147,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_stairs": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-12 01:36:19 +0000"
@@ -6890,9 +7166,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/flesh_fence_gate": {
+    "criteria": {
+      "has_bone_fragments": "2024-12-12 02:30:04 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/living_flesh": {
     "criteria": {
       "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_wall": {
+    "criteria": {
+      "has_flesh_bits": "2024-12-12 02:30:04 +0000"
     },
     "done": true
   },
