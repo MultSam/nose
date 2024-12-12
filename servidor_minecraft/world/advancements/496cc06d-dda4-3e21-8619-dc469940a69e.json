@@ -6439,6 +6439,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/food/crafting/nutrient_bar": {
+    "criteria": {
+      "has_nutrient_paste": "2024-12-12 02:34:12 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/decorations/bedroll": {
     "criteria": {
       "has_leather": "2024-12-12 02:19:33 +0000"
@@ -6901,6 +6907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-12 02:40:00 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_fang": {
     "criteria": {
       "has_mob_fang": "2024-12-12 01:12:26 +0000"
@@ -7033,6 +7045,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/mascot_patterns": {
+    "criteria": {
+      "has_organic_matter": "2024-12-12 02:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 01:29:39 +0000"
@@ -7081,9 +7099,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-12 02:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/dirt_from_stone_powder": {
+    "criteria": {
+      "has_organic_matter": "2024-12-12 02:35:28 +0000"
     },
     "done": true
   },
@@ -7096,6 +7126,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/food/crafting/nutrient_paste_from_nutrient_bar": {
+    "criteria": {
+      "has_nutrient_paste": "2024-12-12 02:34:12 +0000"
     },
     "done": true
   },
@@ -7132,6 +7168,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-12 02:40:00 +0000"
     },
     "done": true
   },
