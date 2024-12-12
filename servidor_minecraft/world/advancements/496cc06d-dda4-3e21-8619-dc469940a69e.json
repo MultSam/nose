@@ -6319,6 +6319,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/biomesoplenty_hair": {
+    "criteria": {
+      "has_mineral_fragment": "2024-12-12 02:44:31 +0000"
+    },
+    "done": true
+  },
   "biomancy:biomancy/raw_meat_sacrifice": {
     "criteria": {
       "has_sacrificed_raw_meat": "2024-12-12 01:30:01 +0000"
@@ -6565,6 +6571,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/building_blocks/blasting/glass_pane": {
+    "criteria": {
+      "has_stone_powder": "2024-12-12 02:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
@@ -6601,6 +6613,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/misc/crafting/sand_from_stone_powder": {
+    "criteria": {
+      "has_stone_powder": "2024-12-12 02:53:49 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/mob_claw": {
     "criteria": {
       "has_mob_claw": "2024-12-12 01:12:23 +0000"
@@ -6624,6 +6642,12 @@
       "minecraft:sheep": "2024-12-12 01:50:31 +0000"
     },
     "done": false
+  },
+  "biomancy:recipes/building_blocks/crafting/red_sand_from_mineral_fragment": {
+    "criteria": {
+      "has_mineral_fragment": "2024-12-12 02:44:31 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
@@ -6664,6 +6688,12 @@
   "biomancy:biomancy/cradle": {
     "criteria": {
       "has_placed_cradle": "2024-12-12 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/granite_from_mineral_fragment": {
+    "criteria": {
+      "has_mineral_fragment": "2024-12-12 02:44:31 +0000"
     },
     "done": true
   },
@@ -6805,6 +6835,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/extractor": {
+    "criteria": {
+      "has_exotic_dust": "2024-12-12 02:53:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-12 01:36:19 +0000"
@@ -6874,6 +6910,12 @@
   "biomancy:recipes/biomancy/decomposing/biomesoplenty_flesh_tendons_strand": {
     "criteria": {
       "has_elastic_fibers": "2024-12-12 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/crafting/diorite_from_stone_powder": {
+    "criteria": {
+      "has_stone_powder": "2024-12-12 02:53:49 +0000"
     },
     "done": true
   },
@@ -6970,6 +7012,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/clay_ball_from_stone_powder": {
+    "criteria": {
+      "has_stone_powder": "2024-12-12 02:53:49 +0000"
     },
     "done": true
   },
@@ -7189,6 +7237,12 @@
     },
     "done": true
   },
+  "biomancy:biomancy/primal_orifice": {
+    "criteria": {
+      "has_primal_orifice": "2024-12-12 02:50:55 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/packed_flesh_stairs": {
     "criteria": {
       "has_flesh_bits": "2024-12-12 02:30:04 +0000"
@@ -7198,6 +7252,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/creator_mix": {
+    "criteria": {
+      "has_exotic_dust": "2024-12-12 02:53:49 +0000"
     },
     "done": true
   },

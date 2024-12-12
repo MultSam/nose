@@ -2108,7 +2108,8 @@
       "scrubland": "2024-12-11 15:51:10 +0000",
       "mediterranean_forest": "2024-12-11 16:01:59 +0000",
       "lush_desert": "2024-12-11 15:50:08 +0000",
-      "lavender_field": "2024-12-11 16:11:46 +0000"
+      "lavender_field": "2024-12-11 16:11:46 +0000",
+      "undergrowth": "2024-12-12 02:45:14 +0000"
     },
     "done": false
   },
@@ -6489,6 +6490,132 @@
       "minecraft:nether_wastes": "2024-12-12 02:43:40 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/piglin_head": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/player_head": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-12 02:46:42 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2024-12-12 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2024-12-12 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-12 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-12 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2024-12-12 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2024-12-12 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2024-12-12 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-12 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-12 02:48:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mob_gland": {
+    "criteria": {
+      "has_mob_gland": "2024-12-12 02:53:51 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -608,3 +608,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [12Dec2024 02:45:20.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 moved too quickly! 0.031778436075029504,-10.867409983895072,0.09034099152595587
 [12Dec2024 02:45:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 tried to swim in lava
 [12Dec2024 02:45:35.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12Dec2024 02:47:59.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[12Dec2024 02:48:09.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Dec2024 02:48:12.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Dec2024 02:48:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Local Brewery]
+[12Dec2024 02:49:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported PhantomThief1210 to MazeHero547]
+[12Dec2024 02:49:36.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[12Dec2024 02:49:36.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Dec2024 02:50:46.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Dec2024 02:50:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Dec2024 02:51:17.241] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2bdcc5a1[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.139.152.144:47559) lost connection: Disconnected
+[12Dec2024 02:51:37.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.139.152.144:38975] logged in with entity id 20086 at (-1184.5047191694914, 66.9375, 92.42005986056355)
+[12Dec2024 02:51:37.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Dec2024 02:51:38.002] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[12Dec2024 02:51:38.003] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[12Dec2024 02:51:38.005] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Dec2024 02:52:07.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[12Dec2024 02:52:07.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Dec2024 02:52:14.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Dec2024 02:52:21.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.139.152.144:45879] logged in with entity id 20342 at (-1184.5047191694914, 66.9375, 92.42005986056355)
+[12Dec2024 02:52:21.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Dec2024 02:52:22.049] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[12Dec2024 02:52:22.052] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[12Dec2024 02:52:22.054] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Dec2024 02:52:47.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Dec2024 02:55:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Dec2024 02:55:39.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Dec2024 02:57:00.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Dec2024 02:57:23.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Dec2024 02:57:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has reached the goal [Fighting Nightmares]
+[12Dec2024 02:57:50.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Dark Metallurgy]
