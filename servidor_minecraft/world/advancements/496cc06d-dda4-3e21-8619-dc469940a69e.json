@@ -6295,15 +6295,33 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/tongue": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/decomposer": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bio_lab": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
@@ -6343,6 +6361,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/bio_forge": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-12 01:37:28 +0000"
@@ -6373,6 +6397,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/fleshkin_pressure_plate": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
@@ -6385,9 +6415,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_leggings": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/biometric_membrane": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
@@ -6421,6 +6463,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/digester": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 01:29:39 +0000"
@@ -6439,15 +6487,51 @@
     },
     "done": true
   },
+  "biomancy:biomancy/living_flesh": {
+    "criteria": {
+      "has_killed_flesh_blob": "2024-12-12 01:57:31 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/maw_hopper": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-12 02:00:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_helmet": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2024-12-12 02:00:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/chrysalis": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
@@ -6460,6 +6544,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fleshkin_chest": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
@@ -6478,6 +6568,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/decomposer": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
@@ -6517,9 +6613,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/ravenous_claws": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_fang": {
     "criteria": {
       "has_mob_fang": "2024-12-12 01:12:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/modular_larynx": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
@@ -6559,6 +6667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-12 02:00:59 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/mob_fang": {
     "criteria": {
       "has_mob_fang": "2024-12-12 01:12:26 +0000"
@@ -6577,6 +6691,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/caustic_gunblade": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
@@ -6589,15 +6709,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-12 02:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-12 01:29:39 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_chestplate": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/mob_claw": {
     "criteria": {
       "has_mob_claw": "2024-12-12 01:12:23 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/bio_forge": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
@@ -6616,6 +6754,18 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_boots": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/thorn_shield": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
@@ -6647,6 +6797,12 @@
     "criteria": {
       "has_mob_fang": "2024-12-12 01:12:26 +0000",
       "has_mob_claw": "2024-12-12 01:12:23 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/living_flesh": {
+    "criteria": {
+      "has_living_flesh": "2024-12-12 01:57:32 +0000"
     },
     "done": true
   },
