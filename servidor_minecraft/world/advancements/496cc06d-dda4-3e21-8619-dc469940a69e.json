@@ -7858,6 +7858,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 01:20:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-12-13 01:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2024-12-13 01:03:30 +0000"
@@ -7936,6 +7948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-13 01:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-13 01:03:30 +0000"
@@ -7957,6 +7975,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2024-12-13 00:58:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-13 01:19:45 +0000"
     },
     "done": true
   },
@@ -7987,6 +8011,12 @@
   "biomancy:recipes/biomancy/decomposing/volatile_gland": {
     "criteria": {
       "has_volatile_gland": "2024-12-13 00:59:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-13 01:20:27 +0000"
     },
     "done": true
   },
@@ -8053,6 +8083,12 @@
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2024-12-13 01:03:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-13 01:20:27 +0000"
     },
     "done": true
   },

@@ -11492,3 +11492,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [13Dec2024 01:11:49.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
 [13Dec2024 01:12:38.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/29077, l='ServerLevel[world]', x=-916.09, y=-7.88, z=-27.19] died: Foundry Guardian was slain by PhantomThief1210
 [13Dec2024 01:12:46.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/28437, l='ServerLevel[world]', x=-927.71, y=-7.85, z=-30.08] died: Foundry Guardian was slain by PhantomThief1210
+[13Dec2024 01:12:48.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/28436, l='ServerLevel[world]', x=-921.57, y=-7.55, z=-25.34] died: Foundry Guardian was slain by PhantomThief1210
+[13Dec2024 01:12:50.232] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[13Dec2024 01:12:50.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 01:12:50.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 01:12:55.323] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/28971, l='ServerLevel[world]', x=-921.89, y=-8.00, z=-30.30] died: Foundry Guardian was slain by PhantomThief1210
+[13Dec2024 01:13:08.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/28438, l='ServerLevel[world]', x=-920.00, y=-8.00, z=-21.40] died: Foundry Guardian was slain by MazeHero547
+[13Dec2024 01:13:14.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/28972, l='ServerLevel[world]', x=-911.16, y=-8.00, z=-29.24] died: Foundry Guardian was slain by MazeHero547
+[13Dec2024 01:13:16.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/28349, l='ServerLevel[world]', x=-907.86, y=-7.89, z=-37.61] died: Foundry Guardian was slain by MazeHero547
+[13Dec2024 01:13:17.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/28350, l='ServerLevel[world]', x=-900.91, y=-9.00, z=-20.70] died: Foundry Guardian was slain by PhantomThief1210
+[13Dec2024 01:13:21.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/28348, l='ServerLevel[world]', x=-894.91, y=-8.00, z=-20.70] died: Foundry Guardian was slain by PhantomThief1210
+[13Dec2024 01:13:25.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/27275, l='ServerLevel[world]', x=-902.95, y=-6.80, z=-18.30] died: Foundry Guardian was killed by MazeHero547 using magic
+[13Dec2024 01:13:31.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/29078, l='ServerLevel[world]', x=-896.94, y=-8.00, z=-23.27] died: Foundry Guardian was slain by PhantomThief1210
+[13Dec2024 01:14:49.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/23615, l='ServerLevel[world]', x=-872.42, y=-17.00, z=48.55] died: Forge Sentry was slain by PhantomThief1210
+[13Dec2024 01:14:52.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/23611, l='ServerLevel[world]', x=-873.54, y=-17.00, z=47.96] died: Forge Sentry was slain by PhantomThief1210
+[13Dec2024 01:15:02.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/30297, l='ServerLevel[world]', x=-888.07, y=-11.25, z=31.43] died: Foundry Guardian was slain by PhantomThief1210
+[13Dec2024 01:16:14.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/30651, l='ServerLevel[world]', x=-972.89, y=-8.81, z=-71.70] died: Foundry Guardian was killed by MazeHero547 using magic
+[13Dec2024 01:16:29.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/30652, l='ServerLevel[world]', x=-976.30, y=-8.79, z=-70.70] died: Foundry Guardian was killed by MazeHero547 using magic
+[13Dec2024 01:16:37.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/30650, l='ServerLevel[world]', x=-970.30, y=-7.67, z=-71.70] died: Foundry Guardian was killed by MazeHero547 using magic
+[13Dec2024 01:17:50.192] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[13Dec2024 01:17:50.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 01:17:50.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 01:18:15.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31396, l='ServerLevel[world]', x=-934.05, y=-6.74, z=4.43] died: Foundry Guardian was killed by MazeHero547 using magic
+[13Dec2024 01:18:30.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[13Dec2024 01:18:54.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 01:20:27.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Crops of the Wild]
+[13Dec2024 01:22:50.193] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[13Dec2024 01:22:50.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 01:22:50.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
