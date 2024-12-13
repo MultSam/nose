@@ -102,3 +102,16 @@
 [13Dec2024 01:41:53.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [13Dec2024 01:41:54.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [13Dec2024 01:42:50.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 01:44:26.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.135.62.255:46405] logged in with entity id 35549 at (-1162.699999988079, 69.0, 8.699999988079071)
+[13Dec2024 01:44:26.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Dec2024 01:44:26.523] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[13Dec2024 01:44:26.523] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[13Dec2024 01:44:26.524] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Dec2024 01:50:07.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -0.03684364231969539,0.0,-10.259886423900895
+[13Dec2024 01:50:07.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[13Dec2024 01:50:43.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 01:51:48.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Life turned out to be a comedy]
+[13Dec2024 01:51:49.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/32126, l='ServerLevel[world]', x=-1228.50, y=62.94, z=40.70] died, message: 'Scribe was slain by Zombie Villager'
+[13Dec2024 01:52:58.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[13Dec2024 01:53:00.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -10.884635930316108,0.0,-0.3006189420277394
+[13Dec2024 01:53:20.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6304ms or 126 ticks behind
