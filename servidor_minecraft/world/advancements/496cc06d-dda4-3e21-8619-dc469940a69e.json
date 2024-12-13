@@ -8924,5 +8924,35 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_4": "2024-12-13 21:43:32 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_head": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:39:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-13 21:39:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2024-12-13 21:43:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
