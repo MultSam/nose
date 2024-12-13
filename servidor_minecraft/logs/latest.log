@@ -142,3 +142,25 @@
 [13Dec2024 01:57:58.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
 [13Dec2024 01:57:58.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
 [13Dec2024 01:57:58.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[13Dec2024 02:04:55.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[13Dec2024 02:04:55.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Dec2024 02:05:33.494] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5807f2a8[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.135.62.255:33661) lost connection: Disconnected
+[13Dec2024 02:06:05.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d187d52[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.135.62.255:49187) lost connection: Disconnected
+[13Dec2024 02:06:23.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.135.62.255:57931] logged in with entity id 40776 at (-1055.6396137058628, 70.25220334025373, 110.66305583248865)
+[13Dec2024 02:06:23.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Dec2024 02:06:24.010] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[13Dec2024 02:06:24.011] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[13Dec2024 02:06:24.011] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Dec2024 02:06:33.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
+[13Dec2024 02:06:54.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[13Dec2024 02:06:54.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Dec2024 02:06:54.065] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 02:07:10.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.135.62.255:60473] logged in with entity id 41116 at (-1055.6396137058628, 70.25220334025373, 110.66305583248865)
+[13Dec2024 02:07:10.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Dec2024 02:07:10.318] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[13Dec2024 02:07:10.319] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[13Dec2024 02:07:10.319] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Dec2024 02:07:13.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[13Dec2024 02:07:40.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[13Dec2024 02:07:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Dec2024 02:07:52.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51516d3b[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.135.62.255:46715) lost connection: Disconnected
