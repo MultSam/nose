@@ -9455,3 +9455,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [13Dec2024 15:43:24.725] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
 [13Dec2024 15:43:24.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 15:43:24.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 15:48:24.725] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[13Dec2024 15:48:24.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 15:48:24.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 15:53:24.725] [Server thread/DEBUG] [Biomancy/SpatialStore]: Found no changes to flush to disk
+[13Dec2024 15:53:24.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 15:53:24.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 15:55:19.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Gave 1 [Minecart with Command Block] to MazeHero547]
+[13Dec2024 15:55:36.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Gave 1 [Command Block] to MazeHero547]

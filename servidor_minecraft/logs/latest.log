@@ -556,3 +556,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [13Dec2024 15:35:21.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [13Dec2024 15:36:40.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3554, l='ServerLevel[world]', x=-1161.34, y=69.00, z=2.31] died, message: 'Librarian was slain by MazeHero547'
 [13Dec2024 15:37:38.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3643, l='ServerLevel[world]', x=-1161.59, y=69.00, z=2.31] died, message: 'Librarian was slain by MazeHero547'
+[13Dec2024 15:55:19.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Gave 1 [Minecart with Command Block] to MazeHero547]
+[13Dec2024 15:55:36.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Gave 1 [Command Block] to MazeHero547]
