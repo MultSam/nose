@@ -9051,6 +9051,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-13 22:37:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
     "criteria": {
       "has_the_recipe": "2024-12-13 21:39:17 +0000"
