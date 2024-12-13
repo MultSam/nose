@@ -265,3 +265,21 @@
 [13Dec2024 03:03:16.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
 [13Dec2024 03:04:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [13Dec2024 03:04:40.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 03:05:26.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[13Dec2024 03:08:33.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[13Dec2024 03:08:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[13Dec2024 03:08:54.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 03:08:55.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 03:09:02.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 03:09:10.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[13Dec2024 03:09:10.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Dec2024 03:09:53.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.135.62.255:44099] logged in with entity id 56304 at (362.30000001192093, 26.0, -6260.792149047866)
+[13Dec2024 03:09:53.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Dec2024 03:09:53.682] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[13Dec2024 03:09:53.688] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[13Dec2024 03:09:53.689] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Dec2024 03:11:58.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 03:12:03.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 03:12:40.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[13Dec2024 03:12:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Dec2024 03:14:53.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
