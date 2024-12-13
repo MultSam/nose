@@ -8954,6 +8954,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-13 21:59:56 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_blacksmith": {
     "criteria": {
       "dark_blacksmith_0": "2024-12-13 21:43:31 +0000"
