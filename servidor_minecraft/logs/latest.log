@@ -212,3 +212,56 @@
 [13Dec2024 02:42:35.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4435ms or 88 ticks behind
 [13Dec2024 02:44:17.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
 [13Dec2024 02:44:40.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7578ms or 151 ticks behind
+[13Dec2024 02:45:05.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9953ms or 199 ticks behind
+[13Dec2024 02:48:37.446] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:sunken_city took 1653 ms
+[13Dec2024 02:49:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 02:49:43.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 02:52:05.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 02:55:11.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13Dec2024 02:55:11.585] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/50978, l='ServerLevel[world]', x=-593.50, y=59.00, z=-166.50]
+[13Dec2024 02:55:12.587] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/50989, l='ServerLevel[world]', x=-593.50, y=59.00, z=-166.50]
+[13Dec2024 02:55:27.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Dark Creator]
+[13Dec2024 02:56:12.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/51487, l='ServerLevel[world]', x=-420.50, y=61.00, z=52.50]
+[13Dec2024 02:56:13.548] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/51488, l='ServerLevel[world]', x=-420.50, y=61.00, z=52.50]
+[13Dec2024 02:56:14.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[13Dec2024 02:56:35.235] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[13Dec2024 02:56:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to 352.500000, 66.000000, -6223.500000]
+[13Dec2024 02:56:35.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 0.0,-10.80652611000901,0.0
+[13Dec2024 02:56:36.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Sunken City]
+[13Dec2024 02:56:46.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17409ms or 348 ticks behind
+[13Dec2024 02:57:08.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7087ms or 141 ticks behind
+[13Dec2024 02:57:30.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 02:57:30.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6763ms or 135 ticks behind
+[13Dec2024 02:57:44.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"sunk city", x:346, y:68, z:-6216, dim:minecraft:overworld]
+[13Dec2024 02:57:53.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Sunken City]
+[13Dec2024 02:57:56.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10858ms or 217 ticks behind
+[13Dec2024 02:58:17.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6732ms or 134 ticks behind
+[13Dec2024 02:58:36.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Sea? Not a Problem]
+[13Dec2024 02:58:41.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8518ms or 170 ticks behind
+[13Dec2024 02:59:01.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4894ms or 97 ticks behind
+[13Dec2024 02:59:21.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[13Dec2024 02:59:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Dec2024 02:59:21.250] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 02:59:22.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6205ms or 124 ticks behind
+[13Dec2024 02:59:38.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.135.62.255:44767] logged in with entity id 52868 at (351.4250670691128, 64.58188455511461, -6209.25487383094)
+[13Dec2024 02:59:38.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Dec2024 02:59:39.209] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[13Dec2024 02:59:39.215] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[13Dec2024 02:59:39.216] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Dec2024 02:59:43.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6414ms or 128 ticks behind
+[13Dec2024 03:00:04.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5736ms or 114 ticks behind
+[13Dec2024 03:00:26.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7053ms or 141 ticks behind
+[13Dec2024 03:00:49.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8197ms or 163 ticks behind
+[13Dec2024 03:00:56.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 03:00:58.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[13Dec2024 03:01:14.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9443ms or 188 ticks behind
+[13Dec2024 03:01:22.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 03:01:24.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 03:01:41.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11955ms or 239 ticks behind
+[13Dec2024 03:01:52.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 moved too quickly! 0.9975504199612715,0.0,-9.996617478099857
+[13Dec2024 03:01:57.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 moved too quickly! -3.2529881488085266,-0.0625,-9.501281273050605
+[13Dec2024 03:02:17.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21359ms or 427 ticks behind
+[13Dec2024 03:02:54.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[13Dec2024 03:03:16.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
+[13Dec2024 03:04:26.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 03:04:40.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
