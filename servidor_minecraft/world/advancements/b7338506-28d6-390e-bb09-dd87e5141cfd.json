@@ -6708,21 +6708,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_foundry": {
-    "criteria": {
-      "location0": "2024-12-13 00:50:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-13 00:42:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2024-12-13 00:50:20 +0000"
     },
     "done": true
   },
@@ -6738,15 +6726,27 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/golden_carrot": {
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-13 00:42:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2024-12-13 00:50:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2024-12-13 00:50:20 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/lapis_bricks": {
+  "biomancy:recipes/biomancy/decomposing/golden_carrot": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-13 00:42:47 +0000"
+      "has_golden_carrot": "2024-12-13 00:50:20 +0000"
     },
     "done": true
   },
