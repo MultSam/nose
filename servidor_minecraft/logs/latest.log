@@ -164,3 +164,28 @@
 [13Dec2024 02:07:40.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
 [13Dec2024 02:07:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
 [13Dec2024 02:07:52.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51516d3b[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.135.62.255:46715) lost connection: Disconnected
+[13Dec2024 02:18:19.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:32853] logged in with entity id 41457 at (-1339.4954262774852, 8.0, -95.63011061046686)
+[13Dec2024 02:18:19.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
+[13Dec2024 02:18:19.557] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'MazeHero547'
+[13Dec2024 02:18:19.561] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'MazeHero547'
+[13Dec2024 02:18:19.562] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[13Dec2024 02:18:23.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[13Dec2024 02:19:57.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 02:19:58.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 02:20:44.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Dec2024 02:21:07.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.135.62.255:54895] logged in with entity id 42423 at (-1053.6204215492805, 70.0, 110.11480632932263)
+[13Dec2024 02:21:07.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Dec2024 02:21:07.383] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'PhantomThief1210'
+[13Dec2024 02:21:07.383] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'PhantomThief1210'
+[13Dec2024 02:21:07.384] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Dec2024 02:21:10.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[13Dec2024 02:21:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Mother of Dragons]
+[13Dec2024 02:21:30.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[13Dec2024 02:21:48.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[13Dec2024 02:21:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"dRAGON DE rAYO", x:-1349, y:-3, z:-92, dim:minecraft:overworld]
+[13Dec2024 02:22:08.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[13Dec2024 02:22:26.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[13Dec2024 02:22:55.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Dec2024 02:22:57.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Dec2024 02:23:18.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Dec2024 02:23:35.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
