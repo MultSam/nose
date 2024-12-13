@@ -5182,6 +5182,7 @@
       "minecraft:magma_cube": "2024-12-13 00:59:56 +0000",
       "minecraft:spider": "2024-12-11 16:08:06 +0000",
       "minecraft:phantom": "2024-12-12 03:26:01 +0000",
+      "minecraft:zombified_piglin": "2024-12-13 02:32:45 +0000",
       "minecraft:wither_skeleton": "2024-12-12 03:25:44 +0000",
       "minecraft:husk": "2024-12-12 03:12:19 +0000",
       "minecraft:enderman": "2024-12-13 01:30:51 +0000",
@@ -7166,6 +7167,18 @@
   "biomancy:recipes/biomancy/decomposing/spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-13 02:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-13 02:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-13 02:33:06 +0000"
     },
     "done": true
   },

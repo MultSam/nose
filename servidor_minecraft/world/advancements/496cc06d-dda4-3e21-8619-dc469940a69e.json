@@ -4032,6 +4032,7 @@
       "minecraft:zombified_piglin": "2024-12-11 16:32:11 +0000",
       "minecraft:wither_skeleton": "2024-12-10 01:52:09 +0000",
       "minecraft:husk": "2024-12-12 03:11:35 +0000",
+      "minecraft:piglin": "2024-12-13 02:31:41 +0000",
       "minecraft:enderman": "2024-12-10 23:09:20 +0000",
       "minecraft:zombie": "2024-12-10 01:36:16 +0000",
       "minecraft:drowned": "2024-12-12 22:25:53 +0000"
@@ -8152,15 +8153,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
-      "has_flint": "2024-12-13 02:22:06 +0000"
+      "has_item": "2024-12-13 02:21:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-13 02:22:54 +0000"
+      "has_item": "2024-12-13 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-13 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2024-12-13 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2024-12-13 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-13 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-13 02:22:06 +0000"
     },
     "done": true
   },
@@ -8170,9 +8201,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
+  "biomancy:recipes/biomancy/decomposing/flint": {
     "criteria": {
-      "has_item": "2024-12-13 02:21:17 +0000"
+      "has_flint": "2024-12-13 02:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-13 02:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 02:22:54 +0000"
     },
     "done": true
   },
@@ -8194,57 +8237,15 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/flint": {
-    "criteria": {
-      "has_flint": "2024-12-13 02:22:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2024-12-13 02:21:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2024-12-13 02:21:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-13 02:22:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2024-12-13 02:21:17 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2024-12-13 02:22:54 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2024-12-13 02:21:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-13 02:22:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-13 02:21:17 +0000"
     },
     "done": true
   },
