@@ -8252,45 +8252,45 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_0": "2024-12-13 02:55:28 +0000"
-    },
-    "done": false
-  },
   "biomancy:recipes/biomancy/decomposing/forge_eggs": {
     "criteria": {
       "has_eggs": "2024-12-13 02:54:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_cod": "2024-12-13 02:58:46 +0000"
+      "has_egg": "2024-12-13 02:54:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2024-12-13 02:54:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-13 02:55:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2024-12-13 02:55:28 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-13 02:56:36 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2024-12-13 02:58:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-13 02:58:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2024-12-13 03:14:58 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/heart_of_the_sea": {
-    "criteria": {
-      "has_heart_of_the_sea": "2024-12-13 03:14:58 +0000"
     },
     "done": true
   },
@@ -8306,45 +8306,9 @@
     },
     "done": true
   },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2024-12-13 02:56:36 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_leviathan": {
-    "criteria": {
-      "ignis": "2024-12-13 03:21:27 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
     "criteria": {
       "has_item": "2024-12-13 02:58:36 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2024-12-13 02:55:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-12-13 02:54:33 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/cod": {
-    "criteria": {
-      "has_cod": "2024-12-13 02:58:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:eggs": "2024-12-13 02:54:33 +0000"
     },
     "done": true
   },
@@ -8360,21 +8324,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-13 02:58:46 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2024-12-13 02:58:36 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
-      "has_item": "2024-12-13 03:09:57 +0000"
+      "has_item": "2024-12-13 02:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-13 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cod": {
+    "criteria": {
+      "has_cod": "2024-12-13 02:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-13 02:58:46 +0000"
     },
     "done": true
   },
@@ -8384,9 +8366,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
-      "has_item": "2024-12-13 02:58:36 +0000"
+      "has_item": "2024-12-13 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-13 03:14:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/heart_of_the_sea": {
+    "criteria": {
+      "has_heart_of_the_sea": "2024-12-13 03:14:58 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2024-12-13 03:21:27 +0000"
     },
     "done": true
   },
