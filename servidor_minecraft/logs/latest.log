@@ -1,884 +1,308 @@
-[13Dec2024 21:24:57.330] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[13Dec2024 21:24:57.341] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[13Dec2024 21:25:13.202] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Dec2024 21:25:13.479] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/nose/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Dec2024 21:25:14.864] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nose/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 21:25:14.867] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nose/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 21:25:14.869] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nose/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 21:25:14.872] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nose/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Dec2024 21:25:15.915] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[13Dec2024 21:25:15.923] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/nose/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
-[13Dec2024 21:25:15.923] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 13 dependencies adding them to mods collection
-[13Dec2024 21:25:24.310] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Dec2024 21:25:25.172] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[13Dec2024 21:25:25.711] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.6+mc1.20.1: 84 options available, 0 override(s) found
-[13Dec2024 21:25:25.712] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[13Dec2024 21:25:25.742] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[13Dec2024 21:25:26.050] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 140 options available, 0 override(s) found
-[13Dec2024 21:25:26.196] [main/WARN] [mixin/]: Reference map 'mixins.sons_of_sins.refmap.json' for mixins.sons_of_sins.json could not be read. If this is a development environment you can ignore this message
-[13Dec2024 21:25:26.350] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Dec2024 21:25:26.829] [main/INFO] [Puzzles Lib/]: Loading 95 mods:
-	- alexscaves 2.0.2
-	- alexscaves_torpedoes 1.0.2
-	- alexsmobs 1.22.9
-	- appleskin 2.5.1+mc1.20.1
-	- architectury 9.2.14
-	- ars_nouveau 4.12.6
-	- artifacts 9.5.13
-		\-- expandability 9.0.4
-	- attributefix 21.0.4
-	- betteradvancements 0.4.2.10
-	- betterfpsdist 1.20.1-6.0
-	- bettervillage 3.2.0
-	- biomancy 2.8.19.0
-	- biomesoplenty 18.0.0.592
-	- blueprint 7.1.0
-	- born_in_chaos_v1 1.5.2
-	- butcher 2.7.7
-	- cataclysm 2.27
-	- citadel 2.6.0
-	- cloth_config 11.1.136
-	- corpse 1.20.1-1.0.18
-	- cosmeticarmorreworked 1.20.1-v1a
-	- create 0.5.1.j
-		\-- flywheel 0.6.11-13
-	- create_central_kitchen 1.3.12
-		|-- create_dragon_lib 1.4.3
-		\-- mixinextras 0.2.0
-	- create_enchantment_industry 1.2.9.d
-	- createaddition 1.20.1-1.2.4e
-	- creativecore 2.12.25
-	- crittersandcompanions 2.2.2
-	- cupboard 1.20.1-2.7
-	- curios 5.11.0+1.20.1
-	- domesticationinnovation 1.7.1
-	- dragonfinder 1.20.1-1.0.0
-	- dragonmounts 1.2.3-beta
-	- dungeons_arise 2.1.58-1.20.x
-	- embeddium 0.3.31+mc1.20.1
-		\-- rubidium 0.7.1
-	- embeddiumplus 1.2.13
-	- entityculling 1.7.2
-	- epic_simply_swords 19
-	- epicfight 20.9.6
-	- farmersdelight 1.20.1-1.2.6
-	- ferritecore 6.0.1
-	- forge 47.3.7
-	- framework 0.7.12
-	- geckolib 4.4.9
-	- guardvillagers 1.20.1-1.6.7
-	- iceandfire 2.1.13-1.20.1
-	- illagerinvasion 8.0.6
-	- immediatelyfast 1.3.3+1.20.4
-	- itemproductionlib 1.0.2a
-	- jade 11.11.1+forge
-	- jei 15.20.0.105
-	- jeresources 1.4.0.247
-	- journeymap 5.10.3
-	- libraryferret 4.0.0
-	- lionfishapi 2.4-Fix
-	- minecraft 1.20.1
-	- mobs_of_sins 0.2
-	- modernfix 5.19.6+mc1.20.1
-	- moonlight 1.20-2.13.37
-	- moredragoneggs 4.0
-	- mynethersdelight 1.20.1-1.7.5
-	- myserveriscompatible 1.0
-	- naturescompass 1.20.1-1.11.2-forge
-	- patchouli 1.20.1-84-FORGE
-	- playerrevive 2.0.30
-	- portablemobs 1.2.0
-	- puzzleslib 8.1.25
-		\-- puzzlesaccessapi 8.0.7
-	- ravageandcabbage 1.2.3
-	- refurbished_furniture 1.0.8
-	- repurposed_structures 7.1.15+1.20.1-forge
-	- simplyswords 1.56.0-1.20.1
-	- skilltree 0.6.14a
-	- smoothchunk 1.20.1-3.8
-	- sodiumdynamiclights 1.0.9
-	- sodiumoptionsapi 1.0.8
-		\-- fabric_api_base 0.4.31+ef105b4977
-	- sons_of_sins 2.1.7
-	- sophisticatedbackpacks 3.20.17.1150
-	- sophisticatedcore 1.0.0.807
-	- spark 1.10.53
-	- storagedrawers 12.9.12
-	- supermartijn642corelib 1.1.17+a
-	- supplementaries 1.20-3.1.11
-		\-- mixinsquared 0.1.1
-	- tameablebeasts 6.2
-	- terrablender 3.0.1.7
-	- toolleveling 1.20.1-2.0.0
-	- unusualprehistory 1.5.0.3
-	- upgrade_aquatic 6.0.1
-	- wom 20.1.8.5.6
-	- worldedit 7.2.15+6463-5ca4dff
-[13Dec2024 21:25:29.646] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/amendments/events/behaviors/InteractEvents (java.lang.ClassNotFoundException: net.mehvahdjukaar.amendments.events.behaviors.InteractEvents)
-[13Dec2024 21:25:29.651] [main/WARN] [mixin/]: @Mixin target net.mehvahdjukaar.amendments.events.behaviors.InteractEvents was not found mynethersdelight.mixins.json:amendments.InteractEventsMixin
-[13Dec2024 21:25:32.752] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
-[13Dec2024 21:25:32.757] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
-[13Dec2024 21:25:32.766] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
-[13Dec2024 21:25:32.767] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
-[13Dec2024 21:25:32.899] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
-[13Dec2024 21:25:32.900] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
-[13Dec2024 21:25:32.901] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
-[13Dec2024 21:25:32.902] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
-[13Dec2024 21:25:32.903] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
-[13Dec2024 21:25:32.904] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
-[13Dec2024 21:25:32.905] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
-[13Dec2024 21:25:32.905] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
-[13Dec2024 21:25:32.910] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
-[13Dec2024 21:25:32.913] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
-[13Dec2024 21:25:33.302] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
-[13Dec2024 21:25:33.303] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
-[13Dec2024 21:25:33.304] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
-[13Dec2024 21:25:33.308] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
-[13Dec2024 21:25:33.548] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
-[13Dec2024 21:25:33.561] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
-[13Dec2024 21:25:33.565] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[13Dec2024 21:25:33.566] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
-[13Dec2024 21:25:33.569] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[13Dec2024 21:25:33.574] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
-[13Dec2024 21:25:33.580] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
-[13Dec2024 21:25:33.582] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
-[13Dec2024 21:25:35.129] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13Dec2024 21:25:37.117] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (51.15 s after launch)
-[13Dec2024 21:25:37.915] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[13Dec2024 21:25:37.920] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[13Dec2024 21:25:41.524] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$ben000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[13Dec2024 21:25:45.656] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 8529 milliseconds
-[13Dec2024 21:25:48.380] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[13Dec2024 21:25:48.381] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[13Dec2024 21:25:52.494] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
-[13Dec2024 21:25:53.088] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[13Dec2024 21:25:53.089] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[13Dec2024 21:25:53.091] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[13Dec2024 21:25:53.091] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[13Dec2024 21:25:53.244] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zkl000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[13Dec2024 21:25:55.994] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[14Dec2024 03:10:19.030] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[14Dec2024 03:10:19.035] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[14Dec2024 03:10:19.194] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Dec2024 03:10:19.254] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/nose/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14Dec2024 03:10:19.541] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nose/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14Dec2024 03:10:19.544] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nose/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Dec2024 03:10:19.545] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nose/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Dec2024 03:10:19.551] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nose/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Dec2024 03:10:19.704] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[14Dec2024 03:10:21.664] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[14Dec2024 03:10:30.417] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[14Dec2024 03:10:30.420] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[14Dec2024 03:10:31.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Dec2024 03:10:32.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[14Dec2024 03:10:33.867] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Dec2024 03:10:34.083] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+alexscaves (version 2.0.2 -> MISSING)
+alexscaves_torpedoes (version 1.0.2 -> MISSING)
+alexsmobs (version 1.22.9 -> MISSING)
+appleskin (version 2.5.1+mc1.20.1 -> MISSING)
+architectury (version 9.2.14 -> MISSING)
+ars_nouveau (version 4.12.6 -> MISSING)
+artifacts (version 9.5.13 -> MISSING)
+attributefix (version 21.0.4 -> MISSING)
+betteradvancements (version 0.4.2.10 -> MISSING)
+betterfpsdist (version 1.20.1-6.0 -> MISSING)
+bettervillage (version 3.2.0 -> MISSING)
+biomancy (version 2.8.19.0 -> MISSING)
+biomesoplenty (version 18.0.0.592 -> MISSING)
+blueprint (version 7.1.0 -> MISSING)
+born_in_chaos_v1 (version 1.5.2 -> MISSING)
+butcher (version 2.7.7 -> MISSING)
+cataclysm (version 2.27 -> MISSING)
+citadel (version 2.6.0 -> MISSING)
+cloth_config (version 11.1.136 -> MISSING)
+corpse (version 1.20.1-1.0.18 -> MISSING)
+cosmeticarmorreworked (version 1.20.1-v1a -> MISSING)
+create (version 0.5.1.j -> MISSING)
+create_central_kitchen (version 1.3.12 -> MISSING)
+create_dragon_lib (version 1.4.3 -> MISSING)
+create_enchantment_industry (version 1.2.9.d -> MISSING)
+createaddition (version 1.20.1-1.2.4e -> MISSING)
+creativecore (version 2.12.25 -> MISSING)
+crittersandcompanions (version 2.2.2 -> MISSING)
+cupboard (version 1.20.1-2.7 -> MISSING)
+curios (version 5.11.0+1.20.1 -> MISSING)
+domesticationinnovation (version 1.7.1 -> MISSING)
+dragonfinder (version 1.20.1-1.0.0 -> MISSING)
+dragonmounts (version 1.2.3-beta -> MISSING)
+dungeons_arise (version 2.1.58-1.20.x -> MISSING)
+embeddium (version 0.3.31+mc1.20.1 -> MISSING)
+embeddiumplus (version 1.2.13 -> MISSING)
+entityculling (version 1.7.2 -> MISSING)
+epic_simply_swords (version 19 -> MISSING)
+epicfight (version 20.9.6 -> MISSING)
+expandability (version 9.0.4 -> MISSING)
+fabric_api_base (version 0.4.31+ef105b4977 -> MISSING)
+farmersdelight (version 1.20.1-1.2.6 -> MISSING)
+ferritecore (version 6.0.1 -> MISSING)
+flywheel (version 0.6.11-13 -> MISSING)
+framework (version 0.7.12 -> MISSING)
+geckolib (version 4.4.9 -> MISSING)
+guardvillagers (version 1.20.1-1.6.7 -> MISSING)
+iceandfire (version 2.1.13-1.20.1 -> MISSING)
+illagerinvasion (version 8.0.6 -> MISSING)
+immediatelyfast (version 1.3.3+1.20.4 -> MISSING)
+itemproductionlib (version 1.0.2a -> MISSING)
+jade (version 11.11.1+forge -> MISSING)
+jei (version 15.20.0.105 -> MISSING)
+jeresources (version 1.4.0.247 -> MISSING)
+journeymap (version 5.10.3 -> MISSING)
+libraryferret (version 4.0.0 -> MISSING)
+lionfishapi (version 2.4-Fix -> MISSING)
+mixinextras (version 0.2.0 -> MISSING)
+mixinsquared (version 0.1.1 -> MISSING)
+mobs_of_sins (version 0.2 -> MISSING)
+modernfix (version 5.19.6+mc1.20.1 -> MISSING)
+moonlight (version 1.20-2.13.37 -> MISSING)
+moredragoneggs (version 4.0 -> MISSING)
+mynethersdelight (version 1.20.1-1.7.5 -> MISSING)
+myserveriscompatible (version 1.0 -> MISSING)
+naturescompass (version 1.20.1-1.11.2-forge -> MISSING)
+patchouli (version 1.20.1-84-FORGE -> MISSING)
+playerrevive (version 2.0.30 -> MISSING)
+portablemobs (version 1.2.0 -> MISSING)
+puzzlesaccessapi (version 8.0.7 -> MISSING)
+puzzleslib (version 8.1.25 -> MISSING)
+ravageandcabbage (version 1.2.3 -> MISSING)
+refurbished_furniture (version 1.0.8 -> MISSING)
+repurposed_structures (version 7.1.15+1.20.1-forge -> MISSING)
+rubidium (version 0.7.1 -> MISSING)
+simplyswords (version 1.56.0-1.20.1 -> MISSING)
+skilltree (version 0.6.14a -> MISSING)
+smoothchunk (version 1.20.1-3.8 -> MISSING)
+sodiumdynamiclights (version 1.0.9 -> MISSING)
+sodiumoptionsapi (version 1.0.8 -> MISSING)
+sons_of_sins (version 2.1.7 -> MISSING)
+sophisticatedbackpacks (version 3.20.17.1150 -> MISSING)
+sophisticatedcore (version 1.0.0.807 -> MISSING)
+spark (version 1.10.53 -> MISSING)
+storagedrawers (version 12.9.12 -> MISSING)
+supermartijn642corelib (version 1.1.17+a -> MISSING)
+supplementaries (version 1.20-3.1.11 -> MISSING)
+tameablebeasts (version 6.2 -> MISSING)
+terrablender (version 3.0.1.7 -> MISSING)
+toolleveling (version 1.20.1-2.0.0 -> MISSING)
+unusualprehistory (version 1.5.0.3 -> MISSING)
+upgrade_aquatic (version 6.0.1 -> MISSING)
+wom (version 20.1.8.5.6 -> MISSING)
+worldedit (version 7.2.15+6463-5ca4dff -> MISSING)
+Things may not work well.
+[14Dec2024 03:10:34.177] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing/unknown registrie(s).
 
-[13Dec2024 21:25:58.272] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
-[13Dec2024 21:25:58.573] [modloading-worker-0/INFO] [ToolLeveling+/]: Loaded ForgeRegistrationFactory for service Factory
-[13Dec2024 21:25:58.583] [modloading-worker-0/INFO] [ToolLeveling+/]: Loaded ForgePlatformHelper for service PlatformHelper
-[13Dec2024 21:25:58.584] [modloading-worker-0/INFO] [ToolLeveling+/]: Initializing ToolLeveling+...
-[13Dec2024 21:25:59.018] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[13Dec2024 21:26:01.453] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[13Dec2024 21:26:02.153] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[13Dec2024 21:26:03.160] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[13Dec2024 21:26:03.185] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[13Dec2024 21:26:03.437] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[13Dec2024 21:26:03.441] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
-[13Dec2024 21:26:03.944] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[13Dec2024 21:26:03.951] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[13Dec2024 21:26:03.952] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[13Dec2024 21:26:03.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[13Dec2024 21:26:03.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[13Dec2024 21:26:03.960] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[13Dec2024 21:26:03.968] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[13Dec2024 21:26:04.762] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[13Dec2024 21:26:04.767] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[13Dec2024 21:26:11.800] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[13Dec2024 21:26:11.833] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[13Dec2024 21:26:13.272] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[13Dec2024 21:26:19.064] [main/WARN] [Moonlight/]: Failed to find custom wood type ars_nouveau:yellow_archwood
-[13Dec2024 21:26:19.066] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:red_maple
-[13Dec2024 21:26:19.066] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_maple
-[13Dec2024 21:26:19.066] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_maple
-[13Dec2024 21:26:19.091] [main/WARN] [Moonlight/]: Failed to find custom wood type mynethersdelight:powdery
-[13Dec2024 21:26:19.126] [main/INFO] [Moonlight/]: Initialized block sets in 64ms
-[13Dec2024 21:26:23.113] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[13Dec2024 21:26:23.160] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[13Dec2024 21:26:26.931] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
-[13Dec2024 21:26:26.933] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
-[13Dec2024 21:26:26.979] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[13Dec2024 21:26:27.007] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[13Dec2024 21:26:27.070] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.070] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.071] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.071] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.071] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.075] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.075] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.076] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.076] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[13Dec2024 21:26:27.607] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/nose/servidor_minecraft/config/unusualprehistory-common.toml is not correct. Correcting
-[13Dec2024 21:26:27.610] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brachi_sound_volume was corrected from 3.0 to its default, 3.0. 
-[13Dec2024 21:26:27.612] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brachi_teen_sound_volume was corrected from 1.5 to its default, 1.5. 
-[13Dec2024 21:26:27.612] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rex_sound_volume was corrected from 0.5 to its default, 0.5. 
-[13Dec2024 21:26:27.908] [modloading-worker-0/INFO] [ToolLeveling+/]: Created README.txt in config folder.
-[13Dec2024 21:26:27.909] [modloading-worker-0/INFO] [ToolLeveling+/]: Config 'tool_leveling_table.json' was successfully loaded.
-[13Dec2024 21:26:27.909] [modloading-worker-0/INFO] [ToolLeveling+/]: Saved the checked/corrected config: tool_leveling_table.json
-[13Dec2024 21:26:27.910] [modloading-worker-0/INFO] [ToolLeveling+/]: Config 'command_config.json' was successfully loaded.
-[13Dec2024 21:26:27.916] [modloading-worker-0/INFO] [ToolLeveling+/]: Saved the checked/corrected config: command_config.json
-[13Dec2024 21:26:28.351] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[13Dec2024 21:26:28.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
-[13Dec2024 21:26:28.860] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[13Dec2024 21:26:28.863] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[13Dec2024 21:26:28.863] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[13Dec2024 21:26:28.864] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[13Dec2024 21:26:28.864] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[13Dec2024 21:26:28.868] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[13Dec2024 21:26:28.870] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[13Dec2024 21:26:28.871] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[13Dec2024 21:26:28.871] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[13Dec2024 21:26:28.873] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[13Dec2024 21:26:28.981] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[13Dec2024 21:26:29.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.6 Target: null
-[13Dec2024 21:26:29.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
-[13Dec2024 21:26:29.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.7 Target: 1.20-1.6.5
-[13Dec2024 21:26:29.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[13Dec2024 21:26:29.257] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6eafcc82]
-[13Dec2024 21:26:29.262] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[13Dec2024 21:26:29.352] [main/INFO] [Supplementaries/]: Finished mod setup in: [17, 6, 0, 1, 0, 0, 24, 7, 0] ms
-[13Dec2024 21:26:29.467] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[13Dec2024 21:26:29.480] [main/INFO] [Biomancy/ModsCompatHandler]: Setup Alex's Caves compat...
-[13Dec2024 21:26:29.544] [main/INFO] [journeymap/]: Initializing Packet Registries
-[13Dec2024 21:26:29.586] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[13Dec2024 21:26:29.587] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[13Dec2024 21:26:29.587] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
-[13Dec2024 21:26:29.611] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 2 for type OVERWORLD
-[13Dec2024 21:26:29.612] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 3 for type OVERWORLD
-[13Dec2024 21:26:29.612] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 4 for type OVERWORLD
-[13Dec2024 21:26:29.613] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[13Dec2024 21:26:29.613] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[13Dec2024 21:26:29.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.18 Target: 1.20.1-1.0.19
-[13Dec2024 21:26:29.629] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[13Dec2024 21:26:29.641] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.11 Target: null
-[13Dec2024 21:26:29.641] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[13Dec2024 21:26:29.707] [main/INFO] [Moonlight/]: Initialized color sets in 76ms
-[13Dec2024 21:26:29.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
-[13Dec2024 21:26:29.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Starting version check at https://api.modrinth.com/updates/uAAuyU4M/forge_updates.json
-[13Dec2024 21:26:30.135] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Hello world from the MDK
-[13Dec2024 21:26:30.136] [modloading-worker-0/INFO] [com.chiki.dragonfinder.DragonFinder/]: Got IMC [Hello world]
-[13Dec2024 21:26:30.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Found status: BETA Current: 2.8.19.0 Target: 2.8.19.0
-[13Dec2024 21:26:30.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[13Dec2024 21:26:30.240] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 43 compatible attributes.
-[13Dec2024 21:26:30.244] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 43 values from config.
-[13Dec2024 21:26:30.288] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 43 entries.
-[13Dec2024 21:26:30.288] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 43 attributes.
-[13Dec2024 21:26:30.392] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[13Dec2024 21:26:30.434] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[13Dec2024 21:26:30.436] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
-[13Dec2024 21:26:30.439] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[13Dec2024 21:26:30.464] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[13Dec2024 21:26:30.470] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[13Dec2024 21:26:30.480] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[13Dec2024 21:26:31.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[13Dec2024 21:26:31.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[13Dec2024 21:26:31.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[13Dec2024 21:26:31.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[13Dec2024 21:26:31.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[13Dec2024 21:26:31.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[13Dec2024 21:26:31.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[13Dec2024 21:26:31.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[13Dec2024 21:26:31.622] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13Dec2024 21:26:31.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[13Dec2024 21:26:31.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[13Dec2024 21:26:31.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.37 Target: null
-[13Dec2024 21:26:31.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[13Dec2024 21:26:31.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[13Dec2024 21:26:31.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
-[13Dec2024 21:26:32.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
-[13Dec2024 21:26:32.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[13Dec2024 21:26:32.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[13Dec2024 21:26:32.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: portablemobs:basic_capture_cell Expected: 2014 Got: 8204
-[13Dec2024 21:26:32.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: portablemobs:master_capture_cell Expected: 2015 Got: 8205
-[13Dec2024 21:26:33.222] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nose/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23273!/assets/.mcassetsroot' uses unexpected schema
-[13Dec2024 21:26:33.223] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nose/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23273!/data/.mcassetsroot' uses unexpected schema
-[13Dec2024 21:26:33.773] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 250 ms
-[13Dec2024 21:26:35.343] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[13Dec2024 21:26:41.324] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[13Dec2024 21:26:41.419] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[13Dec2024 21:26:42.193] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/machetes as it is missing following references: nethersdelight:iron_machete (from butcher-2.7.7-forge-1.20.1.jar), 
-	nethersdelight:golden_machete (from butcher-2.7.7-forge-1.20.1.jar), 
-	nethersdelight:diamond_machete (from butcher-2.7.7-forge-1.20.1.jar), 
-	nethersdelight:netherite_machete (from butcher-2.7.7-forge-1.20.1.jar)
-[13Dec2024 21:26:42.203] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/hunting_tools as it is missing following references: #nethersdelight:tools/machetes (from butcher-2.7.7-forge-1.20.1.jar)
-[13Dec2024 21:26:42.205] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from supplementaries-1.20-3.1.11.jar)
-[13Dec2024 21:26:42.209] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag tfc:unfired_molds as it is missing following references: butcher:unfired_cleaver_mold (from butcher-2.7.7-forge-1.20.1.jar)
-[13Dec2024 21:26:51.886] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mynethersdelight:blocks/blackstone_cooking_pot
-com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23278!/:?]
-	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23278!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23273!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[13Dec2024 21:26:55.903] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
-[13Dec2024 21:26:56.827] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
-[13Dec2024 21:26:59.432] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 6 modifier groups
-[13Dec2024 21:26:59.575] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Dec2024 21:26:59.575] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Dec2024 21:26:59.575] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Dec2024 21:26:59.576] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[13Dec2024 21:26:59.644] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_furnace_boat as it's serializer returned null
-[13Dec2024 21:26:59.658] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_button_from_river_planks_sawing as it's serializer returned null
-[13Dec2024 21:26:59.660] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_button_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:26:59.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_door_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:26:59.732] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards as it's serializer returned null
-[13Dec2024 21:26:59.735] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:26:59.772] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
-[13Dec2024 21:26:59.774] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:26:59.778] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs_from_kelpy_cobblestone_stonecutting as it's serializer returned null
-[13Dec2024 21:26:59.778] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_slab_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:26:59.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:chiseled_river_bookshelf as it's serializer returned null
-[13Dec2024 21:26:59.800] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
-[13Dec2024 21:26:59.803] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[13Dec2024 21:26:59.888] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_stairs_from_river_planks_sawing as it's serializer returned null
-[13Dec2024 21:26:59.892] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
-[13Dec2024 21:26:59.901] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards_from_river_planks_sawing as it's serializer returned null
-[13Dec2024 21:26:59.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles as it's serializer returned null
-[13Dec2024 21:27:00.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[13Dec2024 21:27:00.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_furnace_boat as it's serializer returned null
-[13Dec2024 21:27:00.029] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
-[13Dec2024 21:27:00.034] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.053] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethersdelight:cutting/hoglin_sausage_alt: com.google.gson.JsonSyntaxException: Unknown item 'nethersdelight:hoglin_loin'
-[13Dec2024 21:27:00.094] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder as it's serializer returned null
-[13Dec2024 21:27:00.108] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall as it's serializer returned null
-[13Dec2024 21:27:00.119] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
-[13Dec2024 21:27:00.136] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.155] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_from_river_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.159] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.166] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:chiseled_driftwood_bookshelf as it's serializer returned null
-[13Dec2024 21:27:00.170] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelpy_cobblestone_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.189] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_from_driftwood_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards as it's serializer returned null
-[13Dec2024 21:27:00.201] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
-[13Dec2024 21:27:00.210] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe unusualprehistory:trike_shield_smithing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[13Dec2024 21:27:00.212] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_beehive as it's serializer returned null
-[13Dec2024 21:27:00.215] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_sign_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.226] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
-[13Dec2024 21:27:00.227] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.228] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_button_from_driftwood_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.229] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
-[13Dec2024 21:27:00.230] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.240] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.244] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards_from_driftwood_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.253] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
-[13Dec2024 21:27:00.256] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
-[13Dec2024 21:27:00.257] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:glassworking'
-[13Dec2024 21:27:00.261] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_slab_from_river_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.266] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
-[13Dec2024 21:27:00.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.270] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcherspapersrecipe: com.google.gson.JsonSyntaxException: Unknown item 'butcher:deleted_mod_element'
-[13Dec2024 21:27:00.271] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs as it's serializer returned null
-[13Dec2024 21:27:00.271] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.272] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks_from_kelp as it's serializer returned null
-[13Dec2024 21:27:00.276] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab as it's serializer returned null
-[13Dec2024 21:27:00.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.285] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.289] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.289] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder_from_driftwood_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.290] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.293] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_beehive as it's serializer returned null
-[13Dec2024 21:27:00.311] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder_from_river_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.323] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_sign_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.325] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_chest as it's serializer returned null
-[13Dec2024 21:27:00.329] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.332] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:large_river_boat as it's serializer returned null
-[13Dec2024 21:27:00.341] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ravageandcabbage:netherite_horn_armor: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[13Dec2024 21:27:00.342] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.345] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_gate_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.358] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_slab_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.364] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
-[13Dec2024 21:27:00.367] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
-[13Dec2024 21:27:00.368] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
-[13Dec2024 21:27:00.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_leaf_pile as it's serializer returned null
-[13Dec2024 21:27:00.373] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_pressure_plate_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.374] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:trapped_driftwood_chest as it's serializer returned null
-[13Dec2024 21:27:00.378] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.379] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.380] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.382] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
-[13Dec2024 21:27:00.387] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks as it's serializer returned null
-[13Dec2024 21:27:00.411] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_leaves_from_leaf_piles as it's serializer returned null
-[13Dec2024 21:27:00.426] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_planks_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:trapped_river_chest as it's serializer returned null
-[13Dec2024 21:27:00.430] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_bookshelf as it's serializer returned null
-[13Dec2024 21:27:00.438] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.458] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_slab_from_driftwood_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.463] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.466] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe: com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
-[13Dec2024 21:27:00.469] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[13Dec2024 21:27:00.476] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall_from_kelpy_cobblestone_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.480] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.484] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:chilidog_alt: com.google.gson.JsonSyntaxException: Unknown item 'farmersrespite:blazing_chili'
-[13Dec2024 21:27:00.489] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.492] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_chest as it's serializer returned null
-[13Dec2024 21:27:00.501] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab as it's serializer returned null
-[13Dec2024 21:27:00.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelp as it's serializer returned null
-[13Dec2024 21:27:00.522] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder as it's serializer returned null
-[13Dec2024 21:27:00.523] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_planks_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.525] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.526] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_pressure_plate_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_trapdoor_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.528] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_trapdoor_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks_from_kelpy_cobblestone_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.537] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.540] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab_from_kelpy_cobblestone_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.541] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_stairs_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.546] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall as it's serializer returned null
-[13Dec2024 21:27:00.548] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_stairs_from_driftwood_planks_sawing as it's serializer returned null
-[13Dec2024 21:27:00.548] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.549] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
-[13Dec2024 21:27:00.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_gate_from_river_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_button_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.552] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs as it's serializer returned null
-[13Dec2024 21:27:00.555] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:large_driftwood_boat as it's serializer returned null
-[13Dec2024 21:27:00.556] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
-[13Dec2024 21:27:00.558] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[13Dec2024 21:27:00.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_door_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.569] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_bookshelf as it's serializer returned null
-[13Dec2024 21:27:00.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_stairs_from_driftwood_logs_sawing as it's serializer returned null
-[13Dec2024 21:27:00.593] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 62 recipes
-[13Dec2024 21:27:00.606] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 8 modifier groups
-[13Dec2024 21:27:00.680] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
-[13Dec2024 21:27:00.794] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
-[13Dec2024 21:27:00.999] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:main/tame_barina: Failed to parse 'location' field
-[13Dec2024 21:27:01.137] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5945 advancements
-[13Dec2024 21:27:01.335] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[13Dec2024 21:27:01.345] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[13Dec2024 21:27:01.346] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
-     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
-     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
-     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[13Dec2024 21:27:01.356] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[13Dec2024 21:27:01.470] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
-[13Dec2024 21:27:01.491] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id domesticationinnovation:blazing_enchanted_book - error: Not a JSON object: null
-[13Dec2024 21:27:01.582] [main/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Data loader for unusualprehistory/analyzer loaded 14 jsons
-[13Dec2024 21:27:01.592] [main/INFO] [com.peeko32213.unusualprehistory.common.data.LootFruitJsonManager/]: Data loader for unusualprehistory/trades loaded 4 jsons
-[13Dec2024 21:27:01.614] [main/INFO] [com.peeko32213.unusualprehistory.common.data.EncyclopediaJsonManager/]: Data loader for unusualprehistory/encyclopedia loaded 47 jsons
-[13Dec2024 21:27:01.685] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains, upgrade_aquatic:has_feature/driftwood_river
-[13Dec2024 21:27:01.760] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[13Dec2024 21:27:01.843] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[13Dec2024 21:27:02.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[13Dec2024 21:27:02.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Dec2024 21:27:02.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Dec2024 21:27:02.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Dec2024 21:27:02.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Dec2024 21:27:02.356] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Dec2024 21:27:02.427] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13Dec2024 21:27:02.428] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[13Dec2024 21:27:02.428] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13Dec2024 21:27:02.428] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[13Dec2024 21:27:02.443] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
-[13Dec2024 21:27:02.456] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[13Dec2024 21:27:03.070] [Server thread/INFO] [spark/]: Starting background profiler...
-[13Dec2024 21:27:03.651] [Server thread/INFO] [Framework/]: Loading server configs...
-[13Dec2024 21:27:03.759] [Server thread/INFO] [citadel/]: Added to village structure pool
-[13Dec2024 21:27:03.760] [Server thread/INFO] [citadel/]: Added to village structure pool
-[13Dec2024 21:27:03.760] [Server thread/INFO] [citadel/]: Added to village structure pool
-[13Dec2024 21:27:03.761] [Server thread/INFO] [citadel/]: Added to village structure pool
-[13Dec2024 21:27:03.761] [Server thread/INFO] [citadel/]: Added to village structure pool
-[13Dec2024 21:27:06.219] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[13Dec2024 21:27:06.229] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[13Dec2024 21:27:06.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Dec2024 21:27:08.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Dec2024 21:27:12.762] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.768] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.768] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.774] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.775] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.775] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.775] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.776] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.777] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:12.865] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:13.364] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Dec2024 21:27:14.312] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5950 ms
-[13Dec2024 21:27:14.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.874s)! For help, type "help"
-[13Dec2024 21:27:14.586] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[13Dec2024 21:27:14.662] [Server thread/INFO] [com.chiki.dragonfinder.DragonFinder/]: HELLO from server starting
-[13Dec2024 21:27:29.971] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
-[13Dec2024 21:27:29.973] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[13Dec2024 21:27:38.213] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[13Dec2024 21:27:59.797] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[13Dec2024 21:27:59.798] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[13Dec2024 21:27:59.799] [Server thread/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Registered 17 jsons with items!
-[13Dec2024 21:27:59.800] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[13Dec2024 21:27:59.812] [Server thread/WARN] [ModernFix/]: Dedicated server took 193.848 seconds to load
-[13Dec2024 21:29:40.772] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62c1f3a[id=<null>,name=MazeHero547,properties={},legacy=false] (/127.7.104.67:59971) lost connection: Disconnected
-[13Dec2024 21:30:35.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:47169] logged in with entity id 62 at (-1156.5317499127816, 64.0, 4.882858118492275)
-[13Dec2024 21:30:35.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
-[13Dec2024 21:30:36.112] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'MazeHero547'
-[13Dec2024 21:30:36.114] [Server thread/INFO] [ToolLeveling+/]: Loaded ForgeServerNetworkHelper for service ServerNetworkHelper
-[13Dec2024 21:30:36.114] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'MazeHero547'
-[13Dec2024 21:31:00.747] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
-[13Dec2024 21:31:02.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27958ms or 559 ticks behind
-[13Dec2024 21:31:36.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19144ms or 382 ticks behind
-[13Dec2024 21:32:30.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
-[13Dec2024 21:35:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:35:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 21:36:49.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:36:50.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 21:39:18.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Suit Up]
-[13Dec2024 21:43:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:43:31.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Dark Blacksmith]
-[13Dec2024 21:44:02.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 21:44:15.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:44:21.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 21:47:58.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[13Dec2024 21:49:46.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
-[13Dec2024 21:50:44.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:51:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 21:51:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:51:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 21:53:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:53:40.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 21:54:51.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:55:09.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 21:55:18.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 21:58:55.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:00:49.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:01:47.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:02:51.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:03:05.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:06:20.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:08:28.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:08:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:09:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:10:09.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:10:23.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:11:40.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:12:56.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:14:10.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[13Dec2024 22:14:23.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:15:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Spooky Scary Skeleton]
-[13Dec2024 22:15:57.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:19:32.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Withering Heights]
-[13Dec2024 22:20:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:24:13.161] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8305451
-[13Dec2024 22:24:48.058] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8258253
-[13Dec2024 22:25:19.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:25:59.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[13Dec2024 22:28:57.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:29:14.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:29:40.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:29:44.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:29:49.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Chaos Knight]
-[13Dec2024 22:32:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:32:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:35:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:36:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:37:34.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Junior Summoner]
-[13Dec2024 22:38:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:40:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 22:41:16.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 22:43:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 23:25:56.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 23:33:15.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 23:34:54.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 23:36:33.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -5.11232571433618,2.5541408349324257,-8.58151380423567
-[13Dec2024 23:37:06.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 23:37:17.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 23:38:53.543] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:soul_black_smith took 188 ms
-[13Dec2024 23:39:06.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to 64.500000, 90.000000, -1807.500000]
-[13Dec2024 23:39:06.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7366ms or 147 ticks behind
-[13Dec2024 23:39:06.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 0.0,-11.001595821392755,0.0
-[13Dec2024 23:39:07.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Soul Forge]
-[13Dec2024 23:40:39.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 23:40:54.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved wrongly!
-[13Dec2024 23:40:55.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The broken Nether's warmachine]
-[13Dec2024 23:42:00.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:43:53.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[13Dec2024 23:44:18.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:18.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:18.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:18.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:18.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:18.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:18.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.375] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:19.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:20.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.693] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:21.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.082] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:22.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:23.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:24.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:25.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:26.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:27.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.378] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.694] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:28.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.078] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:29.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:30.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:31.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.375] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.791] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:32.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:33.980] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.579] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:34.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:35.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.873] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:36.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:37.974] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:38.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:39.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.304] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.383] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:40.903] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[13Dec2024 23:44:41.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.483] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.592] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.682] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:41.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:42.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:43.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:43.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:43.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:43.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:43.479] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:43.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:44:43.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[13Dec2024 23:46:12.270] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
-[13Dec2024 23:46:19.227] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 61.06 seconds (should be max 0.05)
-[13Dec2024 23:46:19.228] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+There are 14 missing registries in this save.
+If you continue the missing registries will get removed.
+This may cause issues, it is advised that you create a world backup before continuing.
+
+
+[14Dec2024 03:10:34.178] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing Registries:
+biomancy:bio_forge_tab
+epicfight:conditions
+skilltree:damage_conditions
+skilltree:enchantment_conditions
+skilltree:event_listeners
+skilltree:gem_bonuses
+skilltree:item_bonuses
+skilltree:item_conditions
+skilltree:living_conditions
+biomancy:serum
+epicfight:skill
+skilltree:skill_bonus_multipliers
+skilltree:skill_bonuses
+epicfight:skill_data_keys
+
+[14Dec2024 03:10:34.230] [main/ERROR] [net.minecraft.world.level.storage.LevelStorageSource/]: Exception reading ./world/level.dat
+java.lang.NullPointerException: Cannot read field "owner" because the return value of "com.google.common.collect.BiMap.get(Object)" is null
+	at net.minecraftforge.registries.ForgeRegistry.loadIds(ForgeRegistry.java:778) ~[forge-1.20.1-47.3.7-universal.jar%23106!/:?]
+	at net.minecraftforge.registries.GameData.loadPersistentDataToStagingRegistry(GameData.java:735) ~[forge-1.20.1-47.3.7-universal.jar%23106!/:?]
+	at net.minecraftforge.registries.GameData.lambda$injectSnapshot$20(GameData.java:619) ~[forge-1.20.1-47.3.7-universal.jar%23106!/:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:986) ~[?:?]
+	at net.minecraftforge.registries.GameData.injectSnapshot(GameData.java:615) ~[forge-1.20.1-47.3.7-universal.jar%23106!/:?]
+	at net.minecraftforge.common.ForgeHooks.readAdditionalLevelSaveData(ForgeHooks.java:1379) ~[forge-1.20.1-47.3.7-universal.jar%23106!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.lambda$readAdditionalLevelSaveData$0(LevelStorageSource.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_230817_(LevelStorageSource.java:202) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.readAdditionalLevelSaveData(LevelStorageSource.java:444) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.Main.main(Main.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[14Dec2024 03:10:34.352] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nose/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[14Dec2024 03:10:34.352] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nose/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[14Dec2024 03:10:34.623] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:tameablebeasts
+[14Dec2024 03:10:34.625] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:geckolib
+[14Dec2024 03:10:34.625] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:illagerinvasion
+[14Dec2024 03:10:34.626] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:attributefix
+[14Dec2024 03:10:34.627] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:libraryferret
+[14Dec2024 03:10:34.627] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:sophisticatedcore
+[14Dec2024 03:10:34.627] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:epicfight
+[14Dec2024 03:10:34.628] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:wom
+[14Dec2024 03:10:34.628] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:alexscaves_torpedoes
+[14Dec2024 03:10:34.655] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:ravageandcabbage
+[14Dec2024 03:10:34.656] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:journeymap
+[14Dec2024 03:10:34.657] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:modernfix
+[14Dec2024 03:10:34.659] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:jei
+[14Dec2024 03:10:34.660] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:citadel
+[14Dec2024 03:10:34.684] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:alexsmobs
+[14Dec2024 03:10:34.693] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:naturescompass
+[14Dec2024 03:10:34.695] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:artifacts
+[14Dec2024 03:10:34.695] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:mixinextras
+[14Dec2024 03:10:34.695] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:myserveriscompatible
+[14Dec2024 03:10:34.697] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:epic_simply_swords
+[14Dec2024 03:10:34.700] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:toolleveling
+[14Dec2024 03:10:34.701] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:sophisticatedbackpacks
+[14Dec2024 03:10:34.701] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:guardvillagers
+[14Dec2024 03:10:34.702] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:create_dragon_lib
+[14Dec2024 03:10:34.702] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:iceandfire
+[14Dec2024 03:10:34.703] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:blueprint
+[14Dec2024 03:10:34.703] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:sodiumoptionsapi
+[14Dec2024 03:10:34.704] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:jeresources
+[14Dec2024 03:10:34.704] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:puzzlesaccessapi
+[14Dec2024 03:10:34.705] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:cloth_config
+[14Dec2024 03:10:34.706] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:sodiumdynamiclights
+[14Dec2024 03:10:34.706] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:embeddium
+[14Dec2024 03:10:34.712] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:embeddiumplus
+[14Dec2024 03:10:34.713] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:mobs_of_sins
+[14Dec2024 03:10:34.714] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:corpse
+[14Dec2024 03:10:34.714] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:dungeons_arise
+[14Dec2024 03:10:34.714] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:butcher
+[14Dec2024 03:10:34.717] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:upgrade_aquatic
+[14Dec2024 03:10:34.717] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:sons_of_sins
+[14Dec2024 03:10:34.718] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:smoothchunk
+[14Dec2024 03:10:34.718] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:farmersdelight
+[14Dec2024 03:10:34.720] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:supplementaries
+[14Dec2024 03:10:34.723] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:alexscaves
+[14Dec2024 03:10:34.725] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:repurposed_structures
+[14Dec2024 03:10:34.725] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:terrablender
+[14Dec2024 03:10:34.726] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:moonlight
+[14Dec2024 03:10:34.727] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:fabric_api_base
+[14Dec2024 03:10:34.727] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:biomesoplenty
+[14Dec2024 03:10:34.728] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:mixinsquared
+[14Dec2024 03:10:34.732] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:jade
+[14Dec2024 03:10:34.733] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:creativecore
+[14Dec2024 03:10:34.733] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:unusualprehistory
+[14Dec2024 03:10:34.736] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:itemproductionlib
+[14Dec2024 03:10:34.741] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:skilltree
+[14Dec2024 03:10:34.741] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:born_in_chaos_v1
+[14Dec2024 03:10:34.741] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:lionfishapi
+[14Dec2024 03:10:34.742] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:spark
+[14Dec2024 03:10:34.742] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:betterfpsdist
+[14Dec2024 03:10:34.742] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:cataclysm
+[14Dec2024 03:10:34.742] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:curios
+[14Dec2024 03:10:34.742] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:ars_nouveau
+[14Dec2024 03:10:34.742] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:flywheel
+[14Dec2024 03:10:34.742] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:create
+[14Dec2024 03:10:34.742] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:create_central_kitchen
+[14Dec2024 03:10:34.743] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:patchouli
+[14Dec2024 03:10:34.743] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:mynethersdelight
+[14Dec2024 03:10:34.743] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:storagedrawers
+[14Dec2024 03:10:34.743] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:entityculling
+[14Dec2024 03:10:34.743] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:crittersandcompanions
+[14Dec2024 03:10:34.743] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:bettervillage
+[14Dec2024 03:10:34.743] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:worldedit
+[14Dec2024 03:10:34.743] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:immediatelyfast
+[14Dec2024 03:10:34.744] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:architectury
+[14Dec2024 03:10:34.744] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:simplyswords
+[14Dec2024 03:10:34.744] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:appleskin
+[14Dec2024 03:10:34.744] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:ferritecore
+[14Dec2024 03:10:34.744] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:cupboard
+[14Dec2024 03:10:34.744] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:refurbished_furniture
+[14Dec2024 03:10:34.744] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:puzzleslib
+[14Dec2024 03:10:34.745] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:framework
+[14Dec2024 03:10:34.745] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:cosmeticarmorreworked
+[14Dec2024 03:10:34.745] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:expandability
+[14Dec2024 03:10:34.745] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:playerrevive
+[14Dec2024 03:10:34.745] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:create_enchantment_industry
+[14Dec2024 03:10:34.745] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:domesticationinnovation
+[14Dec2024 03:10:34.745] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:createaddition
+[14Dec2024 03:10:34.746] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:betteradvancements
+[14Dec2024 03:10:34.746] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack Supplementaries Generated Pack
+[14Dec2024 03:10:34.746] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack create_central_kitchen:farmersdelight
+[14Dec2024 03:10:34.746] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:biomancy
+[14Dec2024 03:10:34.746] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:dragonmounts
+[14Dec2024 03:10:34.752] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:dragonfinder
+[14Dec2024 03:10:34.756] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:moredragoneggs
+[14Dec2024 03:10:34.759] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:supermartijn642corelib
+[14Dec2024 03:10:34.760] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:portablemobs
+[14Dec2024 03:10:35.878] [main/WARN] [net.minecraft.server.Main/]: Failed to load datapacks, can't proceed with server load. You can either fix your datapacks or reset to vanilla with --safeMode
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Overworld settings missing
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396) ~[?:?]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073) ~[?:?]
+	at net.minecraft.server.Main.main(Main.java:195) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.IllegalStateException: Overworld settings missing
+	at net.minecraft.world.level.levelgen.WorldDimensions.<init>(WorldDimensions.java:50) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$1.lambda$decode$0(RecordCodecBuilder.java:185) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.mapBoth(Either.java:33) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.map(DataResult.java:111) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$1.lambda$decode$1(RecordCodecBuilder.java:184) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$15(DataResult.java:144) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$17(DataResult.java:143) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Right.map(Either.java:99) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$1.decode(RecordCodecBuilder.java:183) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$3.decode(RecordCodecBuilder.java:249) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.decode(Decoder.java:22) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:26) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_247212_(LevelStorageSource.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_264027_(LevelStorageSource.java:244) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_230817_(LevelStorageSource.java:202) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.m_246049_(LevelStorageSource.java:439) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.Main.lambda$main$1(Main.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.WorldLoader.m_214362_(WorldLoader.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.Main.lambda$main$2(Main.java:167) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:777) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
+	... 13 more
