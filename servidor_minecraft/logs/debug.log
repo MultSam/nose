@@ -5856,3 +5856,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [15Dec2024 20:21:30.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [15Dec2024 20:21:47.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
 [15Dec2024 20:23:52.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Mother of Dragons]
+[15Dec2024 20:24:13.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[15Dec2024 20:24:25.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Dragon Growth Hormone]
+[15Dec2024 20:24:25.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/536, l='ServerLevel[world]', x=-37.11, y=-33.00, z=-39.19] died: Dany_Why was slain by Spiders Mother
+[15Dec2024 20:24:33.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4788ms or 95 ticks behind
+[15Dec2024 20:24:38.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Suit Up]
+[15Dec2024 20:24:53.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15Dec2024 20:25:08.851] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[15Dec2024 20:25:42.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33450ms or 669 ticks behind
+[15Dec2024 20:26:00.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
+[15Dec2024 20:26:16.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 20:26:16.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 20:26:19.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
+[15Dec2024 20:27:05.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Cover Me with Diamonds]
+[15Dec2024 20:31:17.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 20:31:18.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 20:32:54.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/4312, l='ServerLevel[world]', x=-41.90, y=67.00, z=101.53] died: Dany_Why was slain by Zombie
+[15Dec2024 20:35:39.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [From The Shadows]
+[15Dec2024 20:36:17.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 20:36:17.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

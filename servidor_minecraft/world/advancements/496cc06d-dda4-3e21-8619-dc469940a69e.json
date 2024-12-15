@@ -191,12 +191,6 @@
     },
     "done": true
   },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2024-12-15 15:54:49 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-15 15:54:48 +0000"
@@ -257,12 +251,6 @@
     },
     "done": true
   },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2024-12-15 15:54:49 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_burrowing": {
     "criteria": {
       "has_journal": "2024-12-15 15:54:48 +0000"
@@ -278,12 +266,6 @@
   "ars_nouveau:recipes/misc/ritual_restoration": {
     "criteria": {
       "has_journal": "2024-12-15 15:54:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-15 15:54:49 +0000"
     },
     "done": true
   },
@@ -599,12 +581,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-15 15:54:49 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/priority_key": {
     "criteria": {
       "has_template": "2024-12-15 15:54:48 +0000"
@@ -656,12 +632,6 @@
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2024-12-15 15:54:48 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-15 15:54:49 +0000"
     },
     "done": true
   },
@@ -950,12 +920,6 @@
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
       "has_template": "2024-12-15 15:54:48 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-15 15:54:49 +0000"
     },
     "done": true
   },
@@ -1427,12 +1391,6 @@
     },
     "done": true
   },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-15 15:54:49 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/basic_spell_turret": {
     "criteria": {
       "has_journal": "2024-12-15 15:54:48 +0000"
@@ -1817,12 +1775,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-12-15 15:54:52 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2024-12-15 15:54:48 +0000"
@@ -1928,6 +1880,102 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-15 15:54:48 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-15 15:54:49 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-12-15 15:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-15 15:54:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-15 15:54:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-15 15:54:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-15 15:54:49 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-15 15:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-15 15:54:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-15 20:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-15 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-15 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-15 20:25:17 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2024-12-15 20:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-15 20:23:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-15 20:25:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-15 20:24:38 +0000"
     },
     "done": true
   },
