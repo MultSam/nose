@@ -22,6 +22,16 @@
 	"Salt Water" = true
 	#Instantly drain carcasses/corpses
 	"Instant Drain" = false
+	#Enable/Disable sulfur ore generation
+	"Sulfur Ore" = true
+	#Enable/Disable salt generation
+	Salt = true
+	#Enable to use a vanilla bucket to collect salt water. Disable to use butchery's own bucket.
+	"Salt Water: Vanilla Bucket" = true
+	#Enable/Disable overlay hints
+	Hints = true
+	#Enable/Disable organ drops
+	Organs = true
 
 ["Boss Carcasses"]
 	#Enable/Disable End Dragon carcass
@@ -83,6 +93,9 @@
 	Husk = true
 	Drowned = true
 	"Wither Skeleton" = true
+	Player = true
+	Piglin = true
+	"Zombified Piglin" = true
 
 [Seasonal]
 	#Enable/Disable the halloween update
