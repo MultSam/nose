@@ -518,3 +518,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [15Dec2024 20:27:05.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Cover Me with Diamonds]
 [15Dec2024 20:32:54.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/4312, l='ServerLevel[world]', x=-41.90, y=67.00, z=101.53] died: Dany_Why was slain by Zombie
 [15Dec2024 20:35:39.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [From The Shadows]
+[15Dec2024 20:36:50.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Rotten to the Core]
+[15Dec2024 20:44:35.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/8431, l='ServerLevel[world]', x=18.44, y=29.54, z=-70.47] died: Mademoiselle2016 was blown up by Phantom Creeper
+[15Dec2024 20:46:23.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Amateur Archaeologist]
