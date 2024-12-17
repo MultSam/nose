@@ -870,6 +870,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/sponge": {
+    "criteria": {
+      "has_sponge": "2024-12-17 23:20:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-17 23:02:38 +0000"

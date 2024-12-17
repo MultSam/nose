@@ -2267,3 +2267,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [17Dec2024 23:17:16.754] [Server thread/INFO] [Easy NPC/]: Opening menu f7664782-52c5-4f26-a4b7-7a034ab82eab for npc 79a97340-02d0-4df5-80e1-db89b7585a94 and player ServerPlayer['MazeHero547'/275, l='ServerLevel[world]', x=23.34, y=111.00, z=-33.87] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Jeff]}]
 [17Dec2024 23:18:14.140] [Server thread/INFO] [Easy NPC/]: Opening menu 2556f3a2-84fc-4b8d-8e51-afad48351f77 for npc 79a97340-02d0-4df5-80e1-db89b7585a94 and player ServerPlayer['MazeHero547'/275, l='ServerLevel[world]', x=23.34, y=111.00, z=-33.87] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Jeff]}]
 [17Dec2024 23:19:39.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Let's Get To Work]
+[17Dec2024 23:27:55.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set the time to 13000]
+[17Dec2024 23:34:06.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[17Dec2024 23:34:39.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
