@@ -2270,3 +2270,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [17Dec2024 23:27:55.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set the time to 13000]
 [17Dec2024 23:34:06.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
 [17Dec2024 23:34:39.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Dec2024 23:34:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[17Dec2024 23:35:11.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Dec2024 23:35:16.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Who Undermines the Underminer?]
+[17Dec2024 23:35:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[17Dec2024 23:36:52.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]

@@ -6521,3 +6521,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [17Dec2024 23:30:42.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 23:34:06.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
 [17Dec2024 23:34:39.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Dec2024 23:34:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[17Dec2024 23:35:02.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[17Dec2024 23:35:11.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Dec2024 23:35:16.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Who Undermines the Underminer?]
+[17Dec2024 23:35:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[17Dec2024 23:35:42.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:35:42.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:36:52.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Dec2024 23:40:42.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:40:42.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:42:36.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[17Dec2024 23:42:36.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[17Dec2024 23:43:55.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lode259z1tu5]: started parsing
+[17Dec2024 23:43:55.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lode259z1tu5]: Consuming argument ``
+[17Dec2024 23:43:56.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otdw3ax9ldl7]: started parsing
+[17Dec2024 23:43:56.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otdw3ax9ldl7]: Consuming argument `a`
+[17Dec2024 23:43:57.121] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m3iro6gw6xj1]: started parsing
+[17Dec2024 23:43:57.121] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m3iro6gw6xj1]: Consuming argument `ai`
+[17Dec2024 23:43:58.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nwu51mr4a379]: started parsing
+[17Dec2024 23:43:58.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nwu51mr4a379]: Consuming argument `air`
+[17Dec2024 23:43:58.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nwu51mr4a379]: Finished looking at arguments. Finalizing command.
+[17Dec2024 23:43:58.806] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/nose/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23261!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
