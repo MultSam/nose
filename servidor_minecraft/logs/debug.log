@@ -6543,3 +6543,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [17Dec2024 23:43:58.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nwu51mr4a379]: Consuming argument `air`
 [17Dec2024 23:43:58.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nwu51mr4a379]: Finished looking at arguments. Finalizing command.
 [17Dec2024 23:43:58.806] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/nose/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23261!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
+[17Dec2024 23:44:47.102] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mqe51w5jl894]: started parsing
+[17Dec2024 23:44:47.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mqe51w5jl894]: Consuming argument ``
+[17Dec2024 23:44:47.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [043xll8x0y19u]: started parsing
+[17Dec2024 23:44:47.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [043xll8x0y19u]: Consuming argument `a`
+[17Dec2024 23:44:48.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gwclxyi6ydl]: started parsing
+[17Dec2024 23:44:48.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09gwclxyi6ydl]: Consuming argument `ai`
+[17Dec2024 23:44:50.075] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r194nwdqku95]: started parsing
+[17Dec2024 23:44:50.075] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r194nwdqku95]: Consuming argument `air`
+[17Dec2024 23:44:50.075] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r194nwdqku95]: Finished looking at arguments. Finalizing command.
+[17Dec2024 23:45:00.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ob5cpbmegms]: started parsing
+[17Dec2024 23:45:00.359] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ob5cpbmegms]: Consuming argument ``
+[17Dec2024 23:45:01.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02iwcct5aif77]: started parsing
+[17Dec2024 23:45:01.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02iwcct5aif77]: Consuming argument `a`
+[17Dec2024 23:45:01.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ncf65k804igp]: started parsing
+[17Dec2024 23:45:01.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ncf65k804igp]: Consuming argument `ai`
+[17Dec2024 23:45:03.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kbntavmzdvo]: started parsing
+[17Dec2024 23:45:03.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kbntavmzdvo]: Consuming argument `air`
+[17Dec2024 23:45:03.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kbntavmzdvo]: Finished looking at arguments. Finalizing command.
+[17Dec2024 23:45:42.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:45:42.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:50:42.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:50:42.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
