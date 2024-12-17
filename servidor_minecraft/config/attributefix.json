@@ -110,17 +110,6 @@
         "value": 1024
       }
     },
-    "ars_nouveau:ars_nouveau.perk.mana_regen": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2000,
-        "value": 2000
-      }
-    },
     "minecraft:generic.attack_damage": {
       "enabled": true,
       "min": {
@@ -130,6 +119,17 @@
       "max": {
         "default": 2048,
         "value": 1000000
+      }
+    },
+    "dawnera:dawnera.max_hunger": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "skilltree:evasion": {
@@ -143,6 +143,17 @@
         "value": 90
       }
     },
+    "dawnera:dawnera.max_energy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -152,17 +163,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.feather": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
       }
     },
     "epicfight:staminar": {
@@ -220,17 +220,6 @@
         "value": 100
       }
     },
-    "ars_nouveau:ars_nouveau.perk.saturation": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "minecraft:generic.flying_speed": {
       "enabled": true,
       "min": {
@@ -273,17 +262,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.max_mana": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
       }
     },
     "minecraft:generic.max_health": {
@@ -385,17 +363,6 @@
         "value": 2
       }
     },
-    "ars_nouveau:ars_nouveau.perk.spell_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "minecraft:generic.attack_knockback": {
       "enabled": true,
       "min": {
@@ -427,28 +394,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.warding": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.wixie": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
       }
     },
     "minecraft:generic.knockback_resistance": {
