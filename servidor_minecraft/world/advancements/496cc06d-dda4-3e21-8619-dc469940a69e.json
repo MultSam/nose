@@ -558,6 +558,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 01:00:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
@@ -1008,6 +1014,12 @@
     },
     "done": true
   },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2024-12-18 00:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-17 23:01:29 +0000"
@@ -1208,6 +1220,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-18 00:41:48 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/amethyst_shard": {
     "criteria": {
       "has_amethyst_shard": "2024-12-17 23:02:38 +0000"
@@ -1310,6 +1328,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 01:00:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -1331,6 +1355,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/turtle_helmet": {
+    "criteria": {
+      "has_turtle_helmet": "2024-12-18 00:56:53 +0000"
     },
     "done": true
   },
@@ -1391,6 +1421,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-17 23:02:38 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:enigma": {
+    "criteria": {
+      "requirement": "2024-12-18 00:56:11 +0000"
     },
     "done": true
   },
@@ -1586,6 +1622,12 @@
     },
     "done": true
   },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2024-12-18 00:55:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2024-12-17 23:53:29 +0000"
@@ -1658,6 +1700,12 @@
     },
     "done": true
   },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2024-12-18 00:55:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -1669,6 +1717,15 @@
       "has_bone": "2024-12-17 23:55:22 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_3": "2024-12-18 00:43:36 +0000",
+      "squireofthe_dark_lord_5": "2024-12-18 00:58:11 +0000",
+      "squireofthe_dark_lord_0": "2024-12-18 00:58:51 +0000",
+      "squireofthe_dark_lord_2": "2024-12-18 00:58:13 +0000"
+    },
+    "done": false
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
@@ -1682,6 +1739,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 01:00:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -1691,6 +1754,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 00:59:42 +0000"
     },
     "done": true
   },
@@ -1772,6 +1841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 00:59:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -1781,6 +1856,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:07:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 00:59:42 +0000"
     },
     "done": true
   },
@@ -1826,6 +1907,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2024-12-18 00:42:14 +0000"
+    },
+    "done": false
+  },
   "biomancy:recipes/biomancy/decomposing/forge_seeds": {
     "criteria": {
       "has_seeds": "2024-12-17 23:44:25 +0000"
@@ -1853,6 +1940,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 00:59:58 +0000"
     },
     "done": true
   },
@@ -1964,6 +2057,12 @@
     },
     "done": true
   },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2024-12-18 00:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:05:52 +0000"
@@ -2039,6 +2138,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:05:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:00:08 +0000"
     },
     "done": true
   },
@@ -2243,6 +2348,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:05:52 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:whisperwind": {
+    "criteria": {
+      "requirement": "2024-12-18 00:55:38 +0000"
     },
     "done": true
   },
@@ -2463,6 +2574,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2024-12-18 00:48:21 +0000",
+      "trickor_treat_2": "2024-12-18 00:48:21 +0000",
+      "trickor_treat_3": "2024-12-18 00:48:21 +0000",
+      "trickor_treat_4": "2024-12-18 00:48:21 +0000",
+      "trickor_treat_5": "2024-12-18 00:48:21 +0000",
+      "trickor_treat_6": "2024-12-18 00:48:21 +0000",
+      "trickor_treat_7": "2024-12-18 00:48:21 +0000"
+    },
+    "done": false
+  },
   "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
       "has_item": "2024-12-17 23:55:22 +0000"
@@ -2580,6 +2703,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-17 23:44:11 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2024-12-18 00:55:37 +0000"
     },
     "done": true
   },
@@ -2721,6 +2850,18 @@
     },
     "done": true
   },
+  "simplyswords:twisted_blade": {
+    "criteria": {
+      "requirement": "2024-12-18 00:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 00:59:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-18 00:05:23 +0000"
@@ -2829,6 +2970,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 01:00:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -2871,9 +3018,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 00:59:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 01:00:09 +0000"
     },
     "done": true
   },
@@ -3081,6 +3240,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 01:00:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:05:52 +0000"
@@ -3132,6 +3297,12 @@
   "biomancy:recipes/biomancy/decomposing/forge_leather": {
     "criteria": {
       "has_leather": "2024-12-17 23:20:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-18 00:56:47 +0000"
     },
     "done": true
   },
@@ -3195,6 +3366,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 01:00:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -3210,6 +3387,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 00:59:58 +0000"
     },
     "done": true
   },
