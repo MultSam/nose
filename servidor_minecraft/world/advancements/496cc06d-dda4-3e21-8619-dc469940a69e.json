@@ -1026,6 +1026,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-18 00:38:18 +0000",
+      "minecraft:creeper": "2024-12-18 00:31:28 +0000",
+      "minecraft:zombie": "2024-12-18 00:32:01 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -1104,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -1179,6 +1193,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
     },
     "done": true
   },
@@ -1722,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-18 00:31:28 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-17 23:01:33 +0000"
@@ -1881,6 +1907,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-17 23:53:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/cobweb": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
     },
     "done": true
   },
@@ -2292,6 +2324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-12-17 23:55:22 +0000"
@@ -2440,6 +2478,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
     },
     "done": true
   },
@@ -2659,6 +2703,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/forge_string": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-17 23:02:41 +0000"
@@ -2758,6 +2808,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-17 23:53:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/string": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
     },
     "done": true
   },
@@ -3001,6 +3057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -3082,6 +3144,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-17 23:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-18 00:31:28 +0000"
     },
     "done": true
   },
@@ -3190,6 +3258,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-18 00:38:19 +0000"
     },
     "done": true
   },
