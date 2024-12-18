@@ -719,3 +719,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [18Dec2024 22:06:14.596] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'MazeHero547'
 [18Dec2024 22:06:14.612] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
 [18Dec2024 22:06:15.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[18Dec2024 22:16:07.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Dinner's Served!]
