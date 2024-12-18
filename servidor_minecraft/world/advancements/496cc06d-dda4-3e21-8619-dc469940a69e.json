@@ -708,6 +708,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
@@ -1086,6 +1092,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-18 01:25:09 +0000"
@@ -1245,6 +1257,12 @@
   "simplyswords:storms_edge": {
     "criteria": {
       "requirement": "2024-12-18 00:55:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -1460,6 +1478,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/bio_forge": {
     "criteria": {
       "has_living_flesh": "2024-12-18 01:26:03 +0000"
@@ -1616,6 +1646,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "portablemobs:basiccelladvancement": {
     "criteria": {
       "basiccell": "2024-12-18 02:03:20 +0000"
@@ -1715,6 +1751,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -2048,6 +2090,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2024-12-18 02:14:36 +0000"
@@ -2363,9 +2411,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:05:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -2744,6 +2804,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-18 02:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-18 01:10:45 +0000"
@@ -2753,6 +2819,12 @@
   "biomancy:recipes/biomancy/bio_forging/cobweb": {
     "criteria": {
       "has_string": "2024-12-18 00:38:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -2897,6 +2969,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-18 02:19:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -3140,6 +3218,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2024-12-18 02:31:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-12-18 01:10:44 +0000"
@@ -3290,6 +3374,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radgill_bucket": {
+    "criteria": {
+      "radgill_bucket": "2024-12-18 02:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:07:07 +0000"
@@ -3329,6 +3419,12 @@
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -3410,6 +3506,12 @@
       "smithingtable": "2024-12-17 23:19:40 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
@@ -3534,6 +3636,12 @@
   "collectorsreap:recipes/food/chocolate_arils": {
     "criteria": {
       "has_pomegranate_seeds": "2024-12-18 01:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-18 02:31:12 +0000"
     },
     "done": true
   },
@@ -3705,6 +3813,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -3867,6 +3981,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-17 23:01:50 +0000"
@@ -3918,6 +4038,12 @@
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2024-12-18 01:39:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -4203,6 +4329,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -4326,6 +4458,12 @@
   "biomancy:recipes/biomancy/decomposing/redstone": {
     "criteria": {
       "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -4845,6 +4983,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-17 23:46:09 +0000"
@@ -4962,6 +5106,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-12-18 02:14:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
@@ -5191,6 +5341,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2024-12-18 00:05:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-18 02:27:44 +0000"
     },
     "done": true
   },
