@@ -696,6 +696,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/forge_eggs": {
+    "criteria": {
+      "has_eggs": "2024-12-18 00:05:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -915,6 +921,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-18 00:05:23 +0000"
     },
     "done": true
   },
@@ -1149,6 +1161,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 00:05:23 +0000"
     },
     "done": true
   },
@@ -1992,6 +2010,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-18 00:05:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-17 23:01:29 +0000"
@@ -2001,6 +2025,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-18 00:05:23 +0000"
     },
     "done": true
   },
@@ -2271,6 +2301,12 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-18 00:02:18 +0000"
     },
     "done": true
   },
@@ -2605,6 +2641,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 00:05:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -2809,6 +2851,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_egg": {
+    "criteria": {
+      "has_egg": "2024-12-18 00:05:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -2830,6 +2878,12 @@
   "biomancy:recipes/biomancy/decomposing/bloomlight": {
     "criteria": {
       "has_shroomlight": "2024-12-17 23:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2024-12-18 00:02:16 +0000"
     },
     "done": true
   },
@@ -3178,6 +3232,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-18 00:05:23 +0000"
     },
     "done": true
   },
