@@ -6577,3 +6577,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'mynethersdelight:copy_meal'
 [18Dec2024 00:15:42.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 00:20:42.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 00:20:42.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 00:25:42.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 00:25:42.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 00:25:55.720] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vwwsk4jadmkc]: started parsing
+[18Dec2024 00:25:55.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vwwsk4jadmkc]: Finished looking at arguments. Finalizing command.
+[18Dec2024 00:26:36.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19zaxm7ali78p]: started parsing
+[18Dec2024 00:26:36.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19zaxm7ali78p]: Finished looking at arguments. Finalizing command.
+[18Dec2024 00:26:52.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b5llxfwd4lpc]: started parsing
+[18Dec2024 00:26:52.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b5llxfwd4lpc]: Finished looking at arguments. Finalizing command.
+[18Dec2024 00:27:05.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w05xmwr3z2io]: started parsing
+[18Dec2024 00:27:05.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w05xmwr3z2io]: Consuming argument ``
+[18Dec2024 00:27:05.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w05xmwr3z2io]: parseRegularArgument: no arguments to attempt matching
+[18Dec2024 00:27:07.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [056ia3h6rbq2e]: started parsing
+[18Dec2024 00:27:07.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [056ia3h6rbq2e]: Finished looking at arguments. Finalizing command.
+[18Dec2024 00:30:42.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 00:30:42.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 00:31:28.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Monster Hunter]
