@@ -5387,6 +5387,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cracked_deepslate_bricks": {
     "criteria": {
       "has_item": "2024-12-18 22:43:03 +0000"
@@ -5411,9 +5417,39 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/dye_red_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2024-12-18 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5501,6 +5537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2024-12-18 22:48:58 +0000"
@@ -5519,6 +5561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/cyan_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-18 22:48:58 +0000"
@@ -5531,6 +5579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2024-12-18 22:44:27 +0000"
@@ -5540,6 +5594,12 @@
   "refurbished_furniture:recipes/decorations/cyan_toilet": {
     "criteria": {
       "has_dye": "2024-12-18 22:48:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5558,6 +5618,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-18 22:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5585,6 +5651,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/cyan_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-18 22:48:58 +0000"
@@ -5600,6 +5684,18 @@
   "refurbished_furniture:recipes/decorations/cyan_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-18 22:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5651,6 +5747,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2024-12-18 22:44:27 +0000"
@@ -5666,6 +5768,18 @@
   "biomancy:recipes/biomancy/decomposing/coarse_dirt": {
     "criteria": {
       "has_coarse_dirt": "2024-12-18 22:31:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5693,6 +5807,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_feast": {
     "criteria": {
       "honey_glazed_ham": "2024-12-18 22:27:07 +0000"
@@ -5708,6 +5828,18 @@
   "storagedrawers:recipes/storagedrawers/birch_drawers": {
     "criteria": {
       "has_chest": "2024-12-18 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5771,9 +5903,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-18 22:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5786,6 +5930,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-18 22:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5825,9 +5975,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/cyan_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-18 22:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
@@ -5855,9 +6017,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-18 22:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-18 22:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 22:58:35 +0000"
     },
     "done": true
   },
