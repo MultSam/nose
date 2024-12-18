@@ -600,6 +600,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-18 01:25:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -636,6 +642,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 01:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/shroomlight": {
     "criteria": {
       "has_shroomlight": "2024-12-17 23:50:22 +0000"
@@ -648,9 +666,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 01:25:05 +0000"
     },
     "done": true
   },
@@ -744,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-18 01:25:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -759,6 +795,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/tongue": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -831,6 +873,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:05:52 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/decomposer": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -936,9 +984,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-17 23:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-18 01:25:09 +0000"
     },
     "done": true
   },
@@ -960,9 +1020,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-18 01:25:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bio_lab": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -1026,6 +1098,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-18 01:25:40 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/glistering_melon_slice": {
     "criteria": {
       "has_glistering_melon_slice": "2024-12-18 01:10:55 +0000"
@@ -1047,6 +1125,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-18 01:25:09 +0000"
     },
     "done": true
   },
@@ -1244,6 +1328,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/bio_forge": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-18 01:10:51 +0000"
@@ -1376,6 +1466,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/fleshkin_pressure_plate": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -1502,6 +1598,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_leggings": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -1568,6 +1670,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/biometric_membrane": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-17 23:01:48 +0000"
@@ -1595,6 +1703,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2024-12-17 23:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-18 01:27:41 +0000"
     },
     "done": true
   },
@@ -1628,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-17 23:01:48 +0000"
@@ -1655,6 +1775,12 @@
   "skilltree:recipes/misc/healer_necklace": {
     "criteria": {
       "has_ghast_tear": "2024-12-18 01:02:09 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/primal_vision": {
+    "criteria": {
+      "has_primordial_core": "2024-12-18 01:26:11 +0000"
     },
     "done": true
   },
@@ -1790,6 +1916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 01:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-17 23:53:26 +0000"
@@ -1814,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-18 01:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-17 23:20:34 +0000"
@@ -1826,15 +1964,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:27:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-17 23:01:29 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/misc/crafting/primordial_core": {
+    "criteria": {
+      "has_primordial_core": "2024-12-18 01:26:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/beef": {
+    "criteria": {
+      "has_beef": "2024-12-18 01:27:41 +0000"
     },
     "done": true
   },
@@ -1886,6 +2042,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/digester": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -2003,9 +2165,24 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/maw_hopper": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/forge_bones": {
     "criteria": {
       "has_bones": "2024-12-17 23:55:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/raw_meat_collection": {
+    "criteria": {
+      "has_raw_beef": "2024-12-18 01:27:41 +0000",
+      "has_raw_mutton": "2024-12-18 01:25:05 +0000",
+      "has_raw_porkchop": "2024-12-18 01:25:05 +0000",
+      "has_raw_chicken": "2024-12-18 01:25:04 +0000"
     },
     "done": true
   },
@@ -2027,6 +2204,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_helmet": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:07:07 +0000"
@@ -2042,6 +2225,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 01:25:05 +0000"
     },
     "done": true
   },
@@ -2126,6 +2315,12 @@
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/chrysalis": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -2291,6 +2486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-18 01:27:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
@@ -2411,6 +2612,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-18 01:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-17 23:20:34 +0000"
@@ -2438,6 +2645,18 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-17 23:01:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fleshkin_chest": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:25:40 +0000"
     },
     "done": true
   },
@@ -2525,6 +2744,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/misc/crafting/decomposer": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-17 23:09:56 +0000"
@@ -2576,6 +2801,12 @@
   "simplyswords:whisperwind": {
     "criteria": {
       "requirement": "2024-12-18 00:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-18 01:25:04 +0000"
     },
     "done": true
   },
@@ -2748,6 +2979,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2024-12-17 23:05:52 +0000"
@@ -2775,6 +3012,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-18 01:25:40 +0000"
     },
     "done": true
   },
@@ -2886,9 +3129,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-17 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-18 01:25:09 +0000"
     },
     "done": true
   },
@@ -2958,15 +3213,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/combat/crafting/despoil_sickle": {
+    "criteria": {
+      "has_primordial_core": "2024-12-18 01:26:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/ravenous_claws": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -3012,6 +3291,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/cod": {
+    "criteria": {
+      "has_cod": "2024-12-18 01:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -3021,6 +3306,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/modular_larynx": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -3264,6 +3555,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-18 01:25:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2024-12-17 23:46:09 +0000"
@@ -3291,6 +3588,18 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-18 01:25:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/caustic_gunblade": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -3372,9 +3681,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:27:41 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/redstone": {
     "criteria": {
       "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-18 01:25:05 +0000"
     },
     "done": true
   },
@@ -3411,6 +3732,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_chestplate": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -3474,6 +3801,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/misc/crafting/bio_forge": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
@@ -3534,6 +3867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -3549,6 +3888,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:25:05 +0000"
     },
     "done": true
   },
@@ -3585,6 +3930,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/acolyte_armor_boots": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
     },
     "done": true
   },
@@ -3627,6 +3978,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-18 01:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-18 01:25:42 +0000"
     },
     "done": true
   },
@@ -3720,6 +4077,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/thorn_shield": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2024-12-18 00:31:28 +0000"
@@ -3789,6 +4152,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-18 01:25:42 +0000"
     },
     "done": true
   },
@@ -3876,6 +4245,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/mob_sinew": {
+    "criteria": {
+      "has_mob_sinew": "2024-12-18 01:26:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -3891,6 +4266,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2024-12-17 23:01:50 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/crafting/primordial_cradle": {
+    "criteria": {
+      "has_primordial_core": "2024-12-18 01:26:11 +0000"
     },
     "done": true
   },
@@ -3942,6 +4323,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-18 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/living_flesh": {
+    "criteria": {
+      "has_living_flesh": "2024-12-18 01:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
@@ -3951,6 +4344,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-18 01:27:41 +0000"
     },
     "done": true
   },
