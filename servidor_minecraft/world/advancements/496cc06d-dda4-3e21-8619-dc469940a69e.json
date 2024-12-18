@@ -588,6 +588,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/bear_fur": {
+    "criteria": {
+      "has_bear_fur": "2024-12-18 01:18:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -696,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-18 01:10:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -717,6 +729,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-17 23:01:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/tooth_block": {
+    "criteria": {
+      "has_thrasher_tooth": "2024-12-18 01:02:21 +0000"
     },
     "done": true
   },
@@ -822,6 +840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
@@ -840,6 +864,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/komodo_spit": {
+    "criteria": {
+      "has_komodo_spit": "2024-12-18 01:17:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -849,6 +879,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2024-12-18 01:11:05 +0000"
     },
     "done": true
   },
@@ -990,6 +1026,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/glistering_melon_slice": {
+    "criteria": {
+      "has_glistering_melon_slice": "2024-12-18 01:10:55 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/sponge": {
     "criteria": {
       "has_sponge": "2024-12-17 23:20:56 +0000"
@@ -1100,6 +1142,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2024-12-18 01:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-17 23:02:30 +0000"
@@ -1115,6 +1163,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-18 01:19:29 +0000"
     },
     "done": true
   },
@@ -1190,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-18 01:10:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-18 00:05:23 +0000"
@@ -1226,6 +1286,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/amethyst_shard": {
     "criteria": {
       "has_amethyst_shard": "2024-12-17 23:02:38 +0000"
@@ -1238,9 +1304,27 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-18 01:02:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/tooth_bricks": {
+    "criteria": {
+      "has_thrasher_tooth": "2024-12-18 01:02:21 +0000"
     },
     "done": true
   },
@@ -1271,6 +1355,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 01:10:45 +0000"
     },
     "done": true
   },
@@ -1334,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -1370,6 +1466,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2024-12-18 01:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:07:07 +0000"
@@ -1385,6 +1487,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-17 23:01:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
     },
     "done": true
   },
@@ -1454,6 +1562,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/corrodent_teeth": {
+    "criteria": {
+      "has_corrodent_teeth": "2024-12-18 01:19:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-17 23:01:48 +0000"
@@ -1481,6 +1595,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2024-12-17 23:20:34 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:11:05 +0000"
     },
     "done": true
   },
@@ -1529,6 +1649,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-17 23:01:50 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-18 01:02:09 +0000"
     },
     "done": true
   },
@@ -1658,9 +1784,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-17 23:53:26 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-18 01:02:35 +0000"
     },
     "done": true
   },
@@ -1793,6 +1931,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/blaze_powder": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-18 01:10:51 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rabbit_foot": {
+    "criteria": {
+      "has_rabbit_foot": "2024-12-18 01:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
@@ -1802,6 +1952,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
     },
     "done": true
   },
@@ -1823,9 +1979,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-18 01:10:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/prismarine_crystals": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-18 01:02:23 +0000"
     },
     "done": true
   },
@@ -1997,9 +2171,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-17 23:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 01:10:45 +0000"
     },
     "done": true
   },
@@ -2069,9 +2255,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_heart": {
+    "criteria": {
+      "soul_heart": "2024-12-18 01:17:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-18 01:10:51 +0000"
     },
     "done": true
   },
@@ -2123,6 +2321,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-18 01:11:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -2156,6 +2360,12 @@
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-12-18 00:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-18 01:11:05 +0000"
     },
     "done": true
   },
@@ -2285,6 +2495,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2024-12-17 23:55:22 +0000"
@@ -2351,6 +2567,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "simplyswords:whisperwind": {
     "criteria": {
       "requirement": "2024-12-18 00:55:38 +0000"
@@ -2372,6 +2594,12 @@
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-18 01:02:23 +0000"
     },
     "done": true
   },
@@ -2471,6 +2699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2024-12-18 00:02:18 +0000"
@@ -2550,6 +2784,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/ender_pearl": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-18 01:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-17 23:39:58 +0000"
@@ -2559,6 +2799,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2024-12-18 01:11:05 +0000"
     },
     "done": true
   },
@@ -2610,6 +2856,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2024-12-18 01:11:05 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/emerald": {
     "criteria": {
       "has_emerald": "2024-12-17 23:01:42 +0000"
@@ -2643,6 +2913,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-17 23:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-12-18 01:10:48 +0000"
     },
     "done": true
   },
@@ -2724,6 +3000,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2024-12-17 23:53:29 +0000"
@@ -2739,6 +3021,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2024-12-18 01:11:05 +0000"
     },
     "done": true
   },
@@ -2763,6 +3051,12 @@
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
     },
     "done": true
   },
@@ -2886,6 +3180,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
@@ -2919,6 +3219,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-17 23:01:50 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/pufferfish": {
+    "criteria": {
+      "has_pufferfish": "2024-12-18 01:11:04 +0000"
     },
     "done": true
   },
@@ -2970,6 +3276,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/phantom_membrane": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-18 01:19:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-18 01:00:09 +0000"
@@ -3006,6 +3318,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/fermented_spider_eye": {
+    "criteria": {
+      "has_fermented_spider_eye": "2024-12-18 01:10:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -3015,6 +3333,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-18 01:02:09 +0000"
     },
     "done": true
   },
@@ -3048,9 +3372,33 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/redstone": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-17 23:07:03 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2024-12-18 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
     },
     "done": true
   },
@@ -3063,6 +3411,18 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bone_serpent_tooth": {
+    "criteria": {
+      "has_bone_serpent_tooth": "2024-12-18 01:17:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2024-12-18 01:11:05 +0000"
     },
     "done": true
   },
@@ -3108,6 +3468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2024-12-17 23:01:26 +0000"
@@ -3138,6 +3504,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
@@ -3153,6 +3525,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-18 01:11:10 +0000"
     },
     "done": true
   },
@@ -3183,6 +3561,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:05:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2024-12-18 01:02:09 +0000"
     },
     "done": true
   },
@@ -3282,9 +3666,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 01:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-18 01:02:23 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-17 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/root": {
+    "criteria": {
+      "has_raw_meats": "2024-12-18 01:11:04 +0000"
     },
     "done": true
   },
@@ -3321,6 +3723,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2024-12-18 00:31:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
     },
     "done": true
   },
@@ -3396,6 +3804,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 01:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-17 23:07:12 +0000"
@@ -3435,6 +3849,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-17 23:53:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-18 01:19:29 +0000"
     },
     "done": true
   },
@@ -3498,6 +3918,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_block_to_silver_ingot": {
     "criteria": {
       "has_silver_block": "2024-12-17 23:33:03 +0000"
@@ -3519,6 +3945,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-18 01:10:44 +0000"
     },
     "done": true
   },
